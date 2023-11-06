@@ -1,0 +1,588 @@
+;id;area;iteration;title;state.start;state.end;resource;estimate;completed;remaining;activated;resolved
+0;90865;Global Digital Communication Services;Sprint 1;Finalize backend;Closed;Closed;Jönsson, Fredrik;10,0;2,0;0,0;2023-09-06T08:53:46.197Z;2023-09-08T04:13:12.91Z
+1;90866;Global Digital Communication Services;Sprint 1;Finalize frontend;Closed;Closed;Sara Winter;16,0;14,0;0,0;2023-09-06T08:53:53.263Z;2023-09-12T07:02:14.12Z
+2;90894;Global Digital Communication Services;Sprint 1;Finalize frontend;Closed;Closed;Sara Winter;4,0;4,0;0,0;2023-09-06T08:54:57.263Z;2023-09-07T08:43:19.727Z
+3;90906;Global Digital Communication Services;Sprint 1;QA;Closed;Closed;Martin Nilsson;12,0;12,0;0,0;2023-09-08T06:11:42.097Z;
+4;90909;Global Digital Communication Services;Sprint 1;QA;Closed;Closed;Martin Nilsson;32,0;28,0;0,0;2023-09-13T12:27:24.717Z;
+5;90973;Global Digital Communication Services;Sprint 1;Övrigt som tar tid av mig;Closed;Closed;Morgan Jönsson;5,0;18,0;0,0;2023-09-06T09:05:33.877Z;
+6;90974;Global Digital Communication Services;Sprint 1;Övrigt som tar tid av mig;Closed;Closed;Jönsson, Fredrik;10,0;7,0;0,0;2023-09-06T08:47:28.113Z;
+7;90975;Global Digital Communication Services;Sprint 1;Review backend;Closed;Closed;Morgan Jönsson;2,0;;0,0;2023-09-08T04:26:17.563Z;2023-09-08T09:18:00.193Z
+8;90979;Global Digital Communication Services;Sprint 1;Övrigt som tar tid av mig;Closed;Closed;Sara Winter;;1,0;0,0;2023-09-11T07:01:23.947Z;
+9;90982;Global Digital Communication Services;Sprint 1;Övrigt som tar tid av mig;Closed;Closed;Ebba Enhörning;;5,0;0,0;2023-09-06T09:05:29.557Z;
+10;91037;Global Digital Communication Services;Sprint 1;Startup meeting;Closed;Closed;Susanne Holmberg;;;;2023-09-07T06:38:34.297Z;2023-09-08T06:35:15.473Z
+11;91066;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-09-07T10:05:44.933Z;2023-09-07T10:05:46.77Z
+12;91074;Global Digital Communication Services;Sprint 1;Övrigt som tar tid av mig;Closed;Closed;Martin Nilsson;10,0;10,0;0,0;2023-09-08T12:36:51.527Z;
+13;91075;Global Digital Communication Services;Sprint 1;Release 2023.09 1.0;Closed;Closed;Susanne Holmberg;;;;2023-09-07T09:38:50.677Z;
+14;91114;Global Digital Communication Services;Sprint 1;Implement;Closed;Closed;Jönsson, Fredrik;2,0;2,0;0,0;2023-09-08T04:25:16.4Z;2023-09-11T07:55:58Z
+15;91115;Global Digital Communication Services;Sprint 1;Add location data from CRM to search index;Closed;Closed;Jönsson, Fredrik;4,0;0,0;0,0;2023-09-08T11:20:41.757Z;2023-09-08T12:44:33.07Z
+16;91116;Global Digital Communication Services;Sprint 1;Investigate;Closed;Closed;Jönsson, Fredrik;1,0;0,0;0,0;2023-09-08T04:14:53.87Z;2023-09-08T04:23:30.7Z
+17;91118;Global Digital Communication Services;Sprint 1;Implement changes;Closed;Closed;Jönsson, Fredrik;8,0;7,0;0,0;2023-09-11T09:15:55.12Z;2023-09-12T07:53:35.397Z
+18;91172;Global Digital Communication Services;Sprint 4;Run job to move Related content link type;Closed;Closed;Jönsson, Fredrik;1,0;0,5;0,0;2023-10-18T04:16:30.043Z;2023-10-18T04:32:17.99Z
+19;91189;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-09-12T13:31:43.237Z;2023-09-13T07:18:02.33Z
+20;91192;Global Digital Communication Services;Sprint 2;Update translation;Closed;Closed;Ring, Ann-Margret;0,0;0,0;0,0;;
+21;91193;Global Digital Communication Services;Sprint 2;PRE: Verify fileupload in DXP (max size);Closed;Closed;Jönsson, Fredrik;0,0;0,0;0,0;2023-09-18T10:17:01.7Z;
+22;91195;Global Digital Communication Services;Sprint 2;Reindex Serviceanmälan fields;Closed;Closed;Jönsson, Fredrik;0,0;0,0;0,0;2023-09-20T03:14:03.867Z;2023-09-20T03:21:32.257Z
+23;91196;Global Digital Communication Services;Sprint 1;Remove buttons where not applicable;Closed;Closed;Jönsson, Fredrik;1,0;0,0;0,0;2023-09-11T09:03:30.1Z;2023-09-11T09:12:28.027Z
+24;91197;Global Digital Communication Services;Sprint 1;Test;Closed;Closed;Martin Nilsson;;1,0;0,0;2023-09-11T10:04:45.137Z;
+25;91199;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Martin Nilsson;1,0;1,0;0,0;2023-09-20T08:52:14.65Z;
+26;91201;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Martin Nilsson;2,0;4,0;0,0;2023-09-26T13:27:05.9Z;
+27;91202;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;1,0;0,0;0,0;2023-09-13T07:18:41.837Z;2023-09-13T07:31:58.513Z
+28;91203;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Martin Nilsson;4,0;5,0;0,0;2023-09-20T11:20:38.727Z;
+29;91205;Global Digital Communication Services;Sprint 3;Fixing QAs findings;Closed;Closed;brychan.toda;10,0;15,0;0,0;2023-10-03T05:30:55.993Z;2023-10-03T09:12:33.673Z
+30;91206;Global Digital Communication Services;Sprint 3;Test;Closed;Closed;Max Haase;4,0;6,0;0,0;2023-10-05T06:58:34.593Z;2023-10-05T13:33:17.23Z
+31;91207;Global Digital Communication Services;Sprint 1;Update configs;Closed;Closed;Sara Winter;4,0;3,0;0,0;2023-09-13T06:56:00.297Z;2023-09-13T14:12:20.873Z
+32;91208;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Morgan Jönsson;0,5;;0,0;2023-09-13T14:36:58.493Z;2023-09-14T10:05:53.59Z
+33;91209;Global Digital Communication Services;Sprint 1;Test;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-09-15T06:59:30.437Z;
+34;91213;Global Digital Communication Services;Sprint 1;New CRM fields be part of the freetext search (unit.address, unitnumberexternal);Closed;Closed;Jönsson, Fredrik;1,0;1,0;0,0;2023-09-11T03:50:19.78Z;2023-09-11T04:13:39.47Z
+35;91214;Global Digital Communication Services;Sprint 2;Activate schedule job;Closed;Closed;Ring, Ann-Margret;0,0;0,0;0,0;;
+36;91218;Global Digital Communication Services;Sprint 4;Review;Closed;Closed;Sara Winter;2,0;1,0;0,0;2023-10-19T06:28:50.86Z;2023-10-19T06:28:53.113Z
+37;91219;Global Digital Communication Services;Sprint 5;QA;Active;Active;Max Haase;8,0;21,0;2,0;2023-10-26T06:55:44.643Z;
+38;91220;Global Digital Communication Services;Sprint 4;Add reCaptcha;Closed;Closed;brychan.toda;12,0;10,0;0,0;2023-10-12T05:16:39.593Z;
+39;91266;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-09-12T13:15:08.72Z;2023-09-12T13:31:24.567Z
+40;91267;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-12T13:15:11.123Z;2023-09-12T13:31:26.353Z
+41;91337;Global Digital Communication Services;Sprint 5;Update endpoints;Active;Active;Jönsson, Fredrik;2,0;4,0;4,0;2023-09-25T06:40:40.49Z;
+42;91338;Global Digital Communication Services;Sprint 5;Review;Proposed;Proposed;;2,0;;2,0;;
+43;91339;Global Digital Communication Services;Sprint 5;Demo for feedback;Proposed;Proposed;;2,0;;2,0;;
+44;91340;Global Digital Communication Services;Sprint 5;QA;Proposed;Proposed;;4,0;;4,0;;
+45;91341;Global Digital Communication Services;Sprint 2;Upgrade Opti;Closed;Closed;Jönsson, Fredrik;5,0;5,0;0,0;2023-09-20T06:21:58.193Z;2023-09-22T11:10:27.843Z
+46;91342;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Jönsson, Fredrik;1,0;1,0;0,0;;
+47;91343;Global Digital Communication Services;Sprint 4;OBS! CMS upgrade - Reg.test;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-09-22T13:30:37.673Z;2023-10-17T13:29:39.183Z
+48;91344;Global Digital Communication Services;Sprint 4;Review/unify text sources;Closed;Closed;brychan.toda;4,0;4,0;0,0;2023-10-16T12:48:36.3Z;
+49;91346;Global Digital Communication Services;Sprint 2;Investigate nuget usage;Closed;Closed;Jönsson, Fredrik;8,0;4,0;0,0;2023-09-14T09:19:28.93Z;
+50;91355;Global Digital Communication Services;Sprint 1;Investigate;Closed;Closed;Jönsson, Fredrik;4,0;2,0;0,0;2023-09-13T06:51:24.767Z;2023-09-14T07:27:45.66Z
+51;91356;Global Digital Communication Services;Sprint 1;Implement;Closed;Closed;Jönsson, Fredrik;2,0;2,0;0,0;2023-09-13T13:22:30.137Z;2023-09-14T07:27:47.98Z
+52;91357;Global Digital Communication Services;Sprint 3;QA;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-09-29T08:57:53.657Z;2023-09-29T11:48:05.057Z
+53;91358;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-27T12:50:34.017Z;2023-09-27T12:50:38.27Z
+54;91365;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-13T07:18:39.713Z;2023-09-13T07:31:59.963Z
+55;91366;Global Digital Communication Services;Sprint 1;Review ;Closed;Closed;Morgan Jönsson;1,0;;0,0;2023-09-12T06:45:27.963Z;2023-09-12T13:14:51.053Z
+56;91369;Global Digital Communication Services;Sprint 1;Fix issues;Closed;Closed;Sara Winter;;2,0;0,0;2023-09-12T06:58:35.357Z;2023-09-12T10:23:41.553Z
+57;91371;Global Digital Communication Services;Sprint 1;Re-capcha;Closed;Closed;Sara Winter;2,0;2,0;0,0;2023-09-12T07:09:13.68Z;2023-09-12T09:37:15.957Z
+58;91372;Global Digital Communication Services;Sprint 1;Review Vue;Closed;Closed;Leo Lindeberg, Dan;1,0;;0,0;2023-09-12T07:03:30.837Z;
+59;91392;Global Digital Communication Services;Sprint 1;Fix bug;Closed;Closed;Jönsson, Fredrik;8,0;;0,0;2023-09-12T10:33:24.363Z;2023-09-12T12:36:48.333Z
+60;91393;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-13T07:33:18.553Z;2023-09-13T07:58:42.5Z
+61;91394;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Joshua Popoola;2,0;4,0;0,0;2023-09-25T06:47:09.727Z;2023-09-27T06:54:49.19Z
+62;91395;Global Digital Communication Services;Sprint 4;Revert Updated translation texts;Closed;Closed;Ring, Ann-Margret;;;;2023-10-19T13:43:11.92Z;
+63;91397;Global Digital Communication Services;Sprint 1;TinyMCE;Closed;Closed;Sara Winter;2,0;2,0;0,0;2023-09-12T09:36:49.163Z;2023-09-12T09:36:51.267Z
+64;91398;Global Digital Communication Services;Sprint 1;Investigate;Closed;Closed;Jönsson, Fredrik;2,0;0,0;0,0;2023-09-14T05:48:26.94Z;2023-09-14T08:58:46.453Z
+65;91453;Global Digital Communication Services;Sprint 1;Review;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-12T13:32:14.12Z;2023-09-13T07:18:04.4Z
+66;91462;Global Digital Communication Services;Sprint 2;Investigate a sln;Closed;Closed;Jönsson, Fredrik;4,0;4,0;0,0;2023-09-19T06:42:24.693Z;2023-09-19T09:24:51.203Z
+67;91463;Global Digital Communication Services;Sprint 2;Create template;Closed;Closed;Jönsson, Fredrik;24,0;24,0;0,0;2023-09-19T09:24:59.997Z;2023-09-19T09:25:31.613Z
+68;91471;Global Digital Communication Services;Sprint 4;Release note: Require restart;Closed;Closed;Ring, Ann-Margret;;;;;
+69;91532;Global Digital Communication Services;Sprint 2;Backend;Closed;Closed;Jönsson, Fredrik;4,0;4,0;0,0;2023-09-18T08:18:44.087Z;2023-09-18T13:47:37.773Z
+70;91680;Global Digital Communication Services;Sprint 2;Implement;Closed;Closed;Jönsson, Fredrik;2,0;0,0;0,0;2023-09-18T06:15:49.49Z;2023-09-18T08:18:37.227Z
+71;91722;Global Digital Communication Services;Sprint 3;Inform Econans;Closed;Closed;Ring, Ann-Margret;;;;;
+72;91724;Global Digital Communication Services;Sprint 5;Reindex location fields;Proposed;Proposed;;1,0;;1,0;;
+73;91733;Global Digital Communication Services;Sprint 3;Validation of phone nbr;Closed;Closed;brychan.toda;6,0;3,0;0,0;2023-10-10T07:55:29.9Z;
+74;91734;Global Digital Communication Services;Sprint 3;Disable Submit button;Closed;Closed;brychan.toda;;4,0;0,0;2023-10-10T07:54:37.843Z;
+75;91735;Global Digital Communication Services;Sprint 4;Reset selects after Submit;Closed;Closed;brychan.toda;4,0;4,0;0,0;2023-10-10T07:54:29Z;
+76;91736;Global Digital Communication Services;Sprint 3;Text/icon padding;Closed;Closed;brychan.toda;;3,0;0,0;2023-10-10T07:55:33.93Z;
+77;91749;Global Digital Communication Services;Sprint 1;Merge and deploy to inte/preprod;Closed;Closed;Jönsson, Fredrik;;;;;
+78;91789;Global Digital Communication Services;Sprint 2;Reg.test;Closed;Closed;Martin Nilsson;4,0;4,0;0,0;2023-09-18T13:01:49.867Z;
+79;91790;Global Digital Communication Services;Sprint 2;Deploy to prod;Closed;Closed;Jönsson, Fredrik;0,0;0,0;0,0;2023-09-20T03:13:00.63Z;2023-09-20T03:13:02.92Z
+80;91792;Global Digital Communication Services;Sprint 4;Remove GTM AddThis tag - ALL Corp sites;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-19T10:42:33.22Z;2023-10-19T10:50:11.407Z
+81;91793;Global Digital Communication Services;Sprint 2;Update Sitesettings;Closed;Closed;Ring, Ann-Margret;1,0;0,0;0,0;2023-09-20T03:13:55.21Z;
+82;91833;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Martin Nilsson;1,0;1,0;0,0;;
+83;91853;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Morgan Jönsson;0,0;0,0;0,0;;
+84;91854;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Martin Nilsson;;1,0;0,0;;
+85;91855;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Sara Winter;1,0;1,0;0,0;2023-09-20T06:16:52.173Z;
+86;91884;Global Digital Communication Services;Sprint 2;Reg.test in prod;Closed;Closed;Martin Nilsson;4,0;3,0;0,0;2023-09-20T05:18:32.11Z;
+87;91885;Global Digital Communication Services;Sprint 3;Refresh REQs ready for release;Closed;Closed;Ring, Ann-Margret;2,0;;2,0;;
+88;91886;Global Digital Communication Services;Sprint 3;Merge to a release candidate;Closed;Closed;Jönsson, Fredrik;4,0;2,0;0,0;2023-10-13T06:52:51.523Z;2023-10-13T07:15:45.8Z
+89;91896;Global Digital Communication Services;Sprint 2;New setting to exclude project/s;Closed;Closed;Jönsson, Fredrik;3,0;;0,0;2023-09-21T06:48:54.543Z;
+90;91897;Global Digital Communication Services;Sprint 3;Review;Closed;Closed;Jönsson, Fredrik;1,0;;;;
+91;91898;Global Digital Communication Services;Sprint 3;QA;Closed;Closed;Joshua Popoola;3,0;3,0;0,0;2023-10-05T12:02:08.27Z;2023-10-06T12:17:01.387Z
+92;91909;Global Digital Communication Services;Sprint 2;Implement;Closed;Closed;Jönsson, Fredrik;0,0;0,0;0,0;2023-09-20T12:52:16.73Z;2023-09-20T13:27:04.61Z
+93;91910;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Morgan Jönsson;0,0;0,0;0,0;2023-09-22T06:53:14.953Z;2023-09-22T08:29:35.23Z
+94;91911;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Joshua Popoola;2,0;3,0;0,0;2023-09-25T06:47:35.337Z;2023-09-26T05:41:41.447Z
+95;91918;Global Digital Communication Services;Sprint 2;Implement;Closed;Closed;Jönsson, Fredrik;0,0;0,0;0,0;2023-09-20T11:46:46.233Z;2023-09-20T12:52:03.017Z
+96;91919;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Morgan Jönsson;0,0;0,0;0,0;2023-09-22T06:53:16.097Z;2023-09-22T08:29:33.31Z
+97;91920;Global Digital Communication Services;Sprint 2;QA;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-09-25T06:46:56.527Z;2023-09-26T06:38:32.89Z
+98;91999;Global Digital Communication Services;Sprint 2;Frontend;Closed;Closed;brychan.toda;2,0;2,0;0,0;2023-09-29T09:31:21.42Z;2023-09-29T09:31:33.45Z
+99;92037;Global Digital Communication Services;Sprint 2;List translation changes;Closed;Closed;Jönsson, Fredrik;1,0;1,0;0,0;2023-09-21T12:33:09.35Z;2023-09-22T06:46:57.24Z
+100;92178;Global Digital Communication Services;Sprint 2;Implement;Closed;Closed;Jönsson, Fredrik;5,0;3,0;0,0;2023-09-26T13:10:29.78Z;2023-09-27T08:51:56.113Z
+101;92179;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-09-27T13:08:08.033Z;
+102;92180;Global Digital Communication Services;Sprint 3;QA;Closed;Closed;Martin Nilsson;;2,0;0,0;2023-10-06T05:54:26.513Z;
+103;92236;Global Digital Communication Services;Sprint 2;Fix css on Translation tool;Closed;Closed;brychan.toda;2,0;2,0;0,0;2023-09-29T06:31:11.387Z;2023-09-29T08:27:46.063Z
+104;92241;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-27T12:58:34.967Z;2023-09-27T12:59:14.327Z
+105;92369;Global Digital Communication Services;Sprint 2;Implement;Closed;Closed;Jönsson, Fredrik;2,0;;0,0;2023-09-27T09:12:21.887Z;
+106;92371;Global Digital Communication Services;Sprint 2;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-09-27T12:57:24.257Z;2023-09-27T12:57:29.4Z
+107;92374;Global Digital Communication Services;Sprint 3;QA;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-10-02T10:07:11.16Z;
+108;92383;Global Digital Communication Services;Sprint 4;Reg.test preprod;Closed;Closed;Martin Nilsson;4,0;6,0;0,0;2023-10-16T13:24:59.5Z;2023-10-17T13:30:02.503Z
+109;92384;Global Digital Communication Services;Sprint 4;Deploy to prod;Closed;Closed;Jönsson, Fredrik;0,0;1,0;0,0;2023-10-18T04:13:06.81Z;2023-10-18T04:13:21.63Z
+110;92385;Global Digital Communication Services;Sprint 4;Reg.test in prod;Closed;Closed;Martin Nilsson;4,0;3,0;0,0;2023-10-18T04:48:59.04Z;2023-10-18T07:32:43.953Z
+111;92400;Global Digital Communication Services;Sprint 4;List of URL:s to Robin Hutt;Closed;Closed;Susanne Holmberg;;;;2023-10-06T07:52:53.743Z;
+112;92441;Global Digital Communication Services;Sprint 3;Add Lisas ipnumber;Closed;Closed;Susanne Holmberg;;;;2023-10-06T08:00:05.213Z;2023-10-06T08:07:20.567Z
+113;92444;Global Digital Communication Services;Sprint 2;Add location data to filtering JSON;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-09-28T12:42:47.687Z;
+114;92445;Global Digital Communication Services;Sprint 3;Review latest additions;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-09-29T13:15:15.97Z;
+115;92446;Global Digital Communication Services;Sprint 3;QA;Closed;Closed;Martin Nilsson;;5,0;;2023-10-04T10:26:03.84Z;
+116;92499;Global Digital Communication Services;Sprint 3;QA - Fix css on Translation tool;Closed;Closed;Martin Nilsson;1,0;1,0;0,0;2023-10-03T05:29:54.357Z;
+117;92507;Global Digital Communication Services;Sprint 3;Merge to main;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-10-04T07:41:57.23Z;
+118;92569;Global Digital Communication Services;Sprint 3;Review;Closed;Closed;brychan.toda;;;;2023-10-02T12:37:37.99Z;2023-10-02T12:37:47.62Z
+119;92588;Global Digital Communication Services;Sprint 3;All or no residential areas are presented when filtering with free text;Closed;Closed;Jönsson, Fredrik;;;0,0;2023-10-04T08:55:51.553Z;
+120;92717;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;brychan.toda;14,0;14,0;0,0;2023-10-04T06:34:18.233Z;
+121;92718;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Ebba Enhörning;14,0;12,0;0,0;2023-10-04T06:34:19.82Z;
+122;92719;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Itrash Aslam;14,0;9,0;0,0;2023-10-04T06:34:21.087Z;
+123;92720;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Jönsson, Fredrik;14,0;21,0;0,0;2023-10-04T06:34:22.163Z;
+124;92722;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Martin Nilsson;14,0;13,0;0,0;2023-10-04T06:34:23.467Z;
+125;92723;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Max Haase;14,0;10,0;0,0;2023-10-04T06:34:24.68Z;
+126;92724;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Momcilo Dordevic;14,0;7,0;0,0;2023-10-04T06:34:25.86Z;
+127;92725;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Morgan Jönsson;14,0;15,0;0,0;2023-10-04T06:34:27.013Z;
+128;92726;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Joshua Popoola;14,0;9,0;0,0;2023-10-04T06:34:28.65Z;
+129;92727;Global Digital Communication Services;Sprint 3;Meeting, support and other stuff;Closed;Closed;Sara Winter;14,0;8,0;0,0;2023-10-04T06:34:30.11Z;
+130;92730;Global Digital Communication Services;Sprint 3;Scrum mastering;Closed;Closed;Rickard Nisses-Gagnér;;;;2023-10-04T06:34:11Z;
+131;92883;Global Digital Communication Services;Sprint 3;RegTest in Preprod;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-10-06T06:33:36.877Z;2023-10-06T07:05:56.91Z
+132;92884;Global Digital Communication Services;Sprint 3;Smoketest in Prod;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-10-06T09:30:40.767Z;2023-10-06T09:30:42.083Z
+133;92885;Global Digital Communication Services;Sprint 3;Deploy till Live;Closed;Closed;Susanne Holmberg;;;;2023-10-06T07:28:08.85Z;2023-10-06T09:30:32.587Z
+134;92887;Global Digital Communication Services;Sprint 3;Add ChangeLogPage to BrandHub;Closed;Closed;Susanne Holmberg;;;;2023-10-06T09:31:01.623Z;
+135;92888;Global Digital Communication Services;Sprint 3;Schedule job for sitemaps in production;Closed;Closed;Susanne Holmberg;;;;2023-10-06T09:31:25.74Z;2023-10-06T09:31:27.02Z
+136;92889;Global Digital Communication Services;Sprint 3;Schedule job for sitemaps in preprod;Closed;Closed;Susanne Holmberg;;;;2023-10-06T09:31:41.55Z;2023-10-06T09:31:44.24Z
+137;92890;Global Digital Communication Services;Sprint 3;Add borders to Carouselblock in BrandHub;Closed;Closed;Susanne Holmberg;;;;2023-10-06T09:31:31.603Z;
+138;92891;Global Digital Communication Services;Sprint 3;Add Switch block in pages in BrandHub;Closed;Closed;Susanne Holmberg;;;;2023-10-06T09:31:33.24Z;2023-10-06T09:31:34.173Z
+139;92892;Global Digital Communication Services;Sprint 3;Information to WebAdmin;Closed;Closed;Susanne Holmberg;;;;2023-10-06T07:29:51.81Z;2023-10-06T07:29:59.433Z
+140;93593;Global Digital Communication Services;Sprint 4;Fix Heroblock in previewmode;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-10-17T06:30:31.517Z;2023-10-17T06:30:33.213Z
+141;93594;Global Digital Communication Services;Sprint 4;QA;Closed;Closed;Joshua Popoola;1,0;1,0;0,0;2023-10-17T10:45:34.003Z;2023-10-17T15:17:33.347Z
+142;93595;Global Digital Communication Services;Sprint 4;Review;Closed;Closed;Susanne Holmberg;1,0;1,0;0,0;2023-10-17T06:54:14.933Z;2023-10-17T06:54:30.27Z
+143;93602;Global Digital Communication Services;Sprint 4;Smoketest in Prod;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-10-20T06:21:53.467Z;2023-10-20T08:36:40.753Z
+144;93603;Global Digital Communication Services;Sprint 4;RegTest in Preprod;Closed;Closed;Joshua Popoola;3,0;3,0;0,0;2023-10-20T06:19:52.573Z;2023-10-20T06:19:55.327Z
+145;93604;Global Digital Communication Services;Sprint 4;Deploy to live;Closed;Closed;Susanne Holmberg;;;;2023-10-20T06:37:16.613Z;2023-10-20T06:37:19.93Z
+146;93605;Global Digital Communication Services;Sprint 4;Merge from integration to master;Closed;Closed;Susanne Holmberg;;;;2023-10-20T06:52:15.937Z;2023-10-20T13:38:28.443Z
+147;93606;Global Digital Communication Services;Sprint 4;Information to WebAdmin;Closed;Closed;Susanne Holmberg;;;;2023-10-19T06:40:44.263Z;2023-10-19T10:29:12.427Z
+148;93607;Global Digital Communication Services;Sprint 4;Write release notes;Closed;Closed;Susanne Holmberg;;;;2023-10-18T06:43:35.067Z;2023-10-18T06:43:42.617Z
+149;93608;Global Digital Communication Services;Sprint 4;Create and update change;Closed;Closed;Susanne Holmberg;;;;2023-10-18T06:43:16.137Z;2023-10-18T06:52:28.14Z
+150;93700;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;brychan.toda;14,0;10,0;0,0;2023-10-17T06:15:16.75Z;
+151;93701;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Ebba Enhörning;12,0;12,0;0,0;2023-10-17T06:15:16.75Z;
+152;93702;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Itrash Aslam;9,0;10,0;0,0;2023-10-17T06:15:16.75Z;
+153;93703;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Jönsson, Fredrik;21,0;21,0;0,0;2023-10-17T06:15:16.75Z;
+154;93704;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Martin Nilsson;13,0;13,0;0,0;2023-10-17T06:15:16.75Z;
+155;93705;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Max Haase;10,0;11,0;0,0;2023-10-17T06:15:16.75Z;
+156;93706;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Momcilo Dordevic;7,0;1,0;0,0;2023-10-17T06:15:16.75Z;
+157;93707;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Morgan Jönsson;15,0;8,0;0,0;2023-10-17T06:15:16.75Z;
+158;93708;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Joshua Popoola;9,0;9,0;0,0;2023-10-17T06:15:16.75Z;
+159;93709;Global Digital Communication Services;Sprint 4;Meeting, support and other stuff;Closed;Closed;Sara Winter;8,0;7,0;0,0;2023-10-17T06:15:16.75Z;
+160;93725;Global Digital Communication Services;Sprint 4;Book QA for regtest;Closed;Closed;Susanne Holmberg;;;;2023-10-18T06:43:59.347Z;2023-10-18T06:44:00.89Z
+161;93727;Global Digital Communication Services;Sprint 4;Send code to Preproduction;Closed;Closed;Susanne Holmberg;;;;2023-10-18T06:45:18.28Z;2023-10-19T06:40:23.167Z
+162;93775;Global Digital Communication Services;Sprint 4;Backend;Closed;Closed;Jönsson, Fredrik;10,0;7,0;;2023-10-18T11:20:17.693Z;2023-10-20T11:49:26.297Z
+163;93989;Global Digital Communication Services;Höst 2023-3;Brychan - setup OneSkanska;Proposed;Proposed;;;;;;
+164;93990;Global Digital Communication Services;Höst 2023-3;Brychan - setup Microsites;Proposed;Proposed;;;;;;
+165;93992;Global Digital Communication Services;Höst 2023-3;Dan - setup Corp;Proposed;Proposed;;;;;;
+166;93993;Global Digital Communication Services;Höst 2023-3;Dan - setup Bostad;Proposed;Proposed;;;;;;
+167;93997;Global Digital Communication Services;Höst 2023-3;Itrash - setup Bostad;Proposed;Proposed;;;;;;
+168;93998;Global Digital Communication Services;Höst 2023-3;Itrash - setup Microsites;Proposed;Proposed;;;;;;
+169;93999;Global Digital Communication Services;Höst 2023-3;Momcilo - setup Bostad;Proposed;Proposed;;;;;;
+170;94000;Global Digital Communication Services;Höst 2023-3;Momcilo - setup Microsites;Proposed;Proposed;;;;;;
+171;94006;Global Digital Communication Services;Höst 2023-3;Fredrik - setup OneSkanska;Proposed;Proposed;;;;;;
+172;94007;Global Digital Communication Services;Höst 2023-3;Fredrik - setup Microsites;Proposed;Proposed;;;;;;
+173;94014;Global Digital Communication Services;Sprint 4;Send code to Preproduction;Closed;Closed;Susanne Holmberg;;;;2023-10-24T06:48:53.827Z;2023-10-24T06:49:12.03Z
+174;94015;Global Digital Communication Services;Sprint 4;Book QA for smoketest;Closed;Closed;Susanne Holmberg;;;;2023-10-23T13:47:58.02Z;2023-10-24T10:59:34.067Z
+175;94016;Global Digital Communication Services;Sprint 4;Create and update change;Closed;Closed;Susanne Holmberg;;;;2023-10-23T13:26:39.86Z;2023-10-24T06:49:10.403Z
+176;94017;Global Digital Communication Services;Sprint 4;Write release notes;Closed;Closed;Susanne Holmberg;;;;2023-10-23T13:48:17.64Z;2023-10-26T06:39:23.917Z
+177;94018;Global Digital Communication Services;Sprint 4;Information to WebAdmin;Closed;Closed;Susanne Holmberg;;;;2023-10-24T06:49:29.107Z;
+178;94019;Global Digital Communication Services;Sprint 4;Merge from integration to master;Closed;Closed;Susanne Holmberg;;;;2023-10-26T06:39:45.75Z;2023-10-27T06:50:23.02Z
+179;94020;Global Digital Communication Services;Sprint 4;Deploy to live;Closed;Closed;Susanne Holmberg;;;;2023-10-26T06:39:22.13Z;2023-10-26T06:39:43.533Z
+180;94021;Global Digital Communication Services;Sprint 4;Smoketest in Preprod;Closed;Closed;Martin Nilsson;1,0;2,0;0,0;2023-10-24T06:48:33.373Z;2023-10-24T13:14:14.27Z
+181;94022;Global Digital Communication Services;Sprint 4;Smoketest in Prod;Closed;Closed;Martin Nilsson;1,0;1,0;0,0;2023-10-25T07:32:10.457Z;2023-10-25T10:25:01.193Z
+182;94024;Global Digital Communication Services;Höst 2023-3;Ebba - setup bostad;Proposed;Proposed;;;;;;
+183;94025;Global Digital Communication Services;Höst 2023-3;Ebba - setup OneSkanska;Proposed;Proposed;;;;;;
+184;94026;Global Digital Communication Services;Höst 2023-3;Ebba - setup Corp;Proposed;Proposed;;;;;;
+185;94069;Global Digital Communication Services;Sprint 4;Fix accessrole issue in sitesettings for CoreExperience;Closed;Closed;Susanne Holmberg;;;;2023-10-24T11:00:00.17Z;2023-10-24T13:16:30.937Z
+186;94211;Global Digital Communication Services;Sprint 5;Meeting, support and other stuff;Proposed;Closed;brychan.toda;;;;;
+187;94418;Global Digital Communication Services;Sprint 5;Frontend support;;Closed;brychan.toda;4,0;5,0;0,0;2023-10-30T08:38:53.097Z;
+188;94669;Global Digital Communication Services;Sprint 5;Setting up and intro;;Active;brychan.toda;6,0;6,0;0,0;2023-11-02T14:18:50.197Z;
+189;90751;Brand Hub Web;Sprint 1;Development;Closed;Closed;Ebba Enhörning;20,0;17,0;0,0;2023-09-07T06:58:17.93Z;2023-09-11T13:10:35.02Z
+190;90837;Brand Hub Web;Sprint 1;Development;Closed;Closed;Ebba Enhörning;2,0;2,0;0,0;2023-09-11T13:17:27.57Z;2023-09-12T06:34:40.397Z
+191;90889;Brand Hub Web;Sprint 2;Development;Closed;Closed;Ebba Enhörning;2,0;2,0;0,0;2023-09-19T11:06:05.233Z;2023-09-19T11:49:24.82Z
+192;90901;Brand Hub Web;Sprint 2;Create Content;Closed;Closed;Ebba Enhörning;6,0;8,0;0,0;2023-09-26T06:43:40.72Z;2023-09-26T06:43:41.717Z
+193;90902;Brand Hub Web;Sprint 2;Create Content;Closed;Closed;Ebba Enhörning;10,0;10,0;0,0;2023-09-25T05:42:03.943Z;2023-09-27T07:51:22.117Z
+194;90920;Brand Hub Web;Sprint 2;QA;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;2023-09-13T06:59:21.22Z;
+195;90921;Brand Hub Web;Sprint 1;Test;Closed;Closed;Joshua Popoola;2,0;;2,0;2023-09-14T06:57:05.27Z;
+196;91084;Brand Hub Web;Sprint 2;Development;Closed;Closed;Ebba Enhörning;2,0;2,0;2,0;2023-09-27T10:32:49.347Z;2023-09-27T11:59:25.687Z
+197;91085;Brand Hub Web;Sprint 2;QA;Closed;Closed;Joshua Popoola;1,0;2,0;0,0;2023-09-28T18:02:32.12Z;2023-09-28T18:02:48.91Z
+198;91368;Brand Hub Web;Sprint 1;Review;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-12T06:54:13.077Z;2023-09-12T07:10:49.837Z
+199;91682;Brand Hub Web;Sprint 1;Updates after Test;Closed;Closed;Ebba Enhörning;1,0;1,0;0,0;2023-09-14T09:10:38.117Z;2023-09-15T05:51:06.713Z
+200;91709;Brand Hub Web;Sprint 1;Change of requirement;Closed;Closed;Ebba Enhörning;1,0;1,0;0,0;2023-09-14T13:08:09.333Z;2023-09-15T05:49:11.76Z
+201;91857;Brand Hub Web;Sprint 2;QA;Closed;Closed;Joshua Popoola;1,0;1,0;0,0;2023-09-20T06:59:14.42Z;2023-09-20T10:45:45.51Z
+202;91858;Brand Hub Web;Sprint 2;Review;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-20T06:46:08.38Z;2023-09-20T06:46:11.77Z
+203;91998;Brand Hub Web;Sprint 2;Review;Closed;Closed;Leo Lindeberg, Dan;0,0;0,0;0,0;;
+204;92000;Brand Hub Web;Sprint 2;Test;Closed;Closed;Joshua Popoola;;2,0;;2023-09-22T10:30:50.58Z;2023-09-22T14:33:24.533Z
+205;92100;Brand Hub Web;Sprint 2;Review;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-26T06:43:42.713Z;2023-09-26T06:43:46.11Z
+206;92101;Brand Hub Web;Sprint 3;Test;Closed;Closed;Joshua Popoola;2,0;3,0;0,0;2023-09-27T13:28:53.593Z;2023-10-03T09:40:47.98Z
+207;92554;Brand Hub Web;Sprint 3;Sussanne kollar;Closed;Closed;Susanne Holmberg;;;;2023-10-02T07:08:59.45Z;2023-10-03T14:13:43.94Z
+208;92751;Brand Hub Web;Sprint 3;Add logotype images to project;Closed;Closed;Susanne Holmberg;2,0;1,0;0,0;2023-10-04T11:35:11.597Z;
+209;85797;Corporate Web;Sprint 2;Frontend: Add design and columnlogic;Closed;Closed;Sara Winter;16,0;3,0;0,0;2023-09-19T07:03:56.413Z;2023-09-19T14:05:22.377Z
+210;85798;Corporate Web;Sprint 2;QA block in various col-widths;Closed;Closed;Max Haase;8,0;5,0;0,0;2023-09-22T06:50:54.54Z;2023-09-26T06:48:09.433Z
+211;85800;Corporate Web;Sprint 5;Remove blocktypes;Proposed;Proposed;;6,0;;6,0;;
+212;85801;Corporate Web;Sprint 5;QA;Proposed;Proposed;;4,0;;4,0;;
+213;85803;Corporate Web;Sprint 5;Remove admin tools;Proposed;Proposed;;6,0;;6,0;;
+214;90917;Corporate Web;Sprint 1;Finalize implementation;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;;
+215;90918;Corporate Web;Sprint 1;QA;Closed;Closed;Max Haase;6,0;4,0;0,0;2023-09-08T06:58:29.967Z;
+216;90926;Corporate Web;Sprint 1;Backend;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-09-11T08:07:56.633Z;2023-09-11T08:08:08.257Z
+217;90927;Corporate Web;Sprint 1;QA;Closed;Closed;Joshua Popoola;2,0;2,0;0,0;;
+218;90929;Corporate Web;Sprint 1;Finalize implementation;Closed;Closed;Morgan Jönsson;;1,0;0,0;2023-09-11T06:58:00.373Z;2023-09-11T10:27:03.453Z
+219;90930;Corporate Web;Sprint 4;QA;Closed;Closed;Joshua Popoola;2,0;8,0;0,0;2023-10-04T12:58:57.87Z;2023-10-27T15:18:05.307Z
+220;90937;Corporate Web;Sprint 1;Finalize implementation;Closed;Closed;Morgan Jönsson;6,0;5,0;0,0;2023-09-12T06:47:20.997Z;
+221;90938;Corporate Web;Sprint 4;QA;Closed;Closed;Joshua Popoola;4,0;7,0;0,0;2023-10-04T12:58:57.27Z;2023-10-27T15:18:03.947Z
+222;90939;Corporate Web;Sprint 1;Update version in GIS connection strings;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-09-07T06:53:07.577Z;2023-09-08T11:15:21.25Z
+223;90940;Corporate Web;Sprint 3;OBS! Reg.test GIS connection update;Closed;Closed;Max Haase;;5,0;;2023-10-05T06:58:31.813Z;2023-10-06T14:15:06.377Z
+224;90956;Corporate Web;Sprint 1;Implement use of alt-text property;Closed;Closed;Itrash Aslam;8,0;8,0;0,0;2023-09-07T06:51:14.637Z;
+225;90957;Corporate Web;Sprint 2;QA;Closed;Closed;Max Haase;12,0;24,0;0,0;2023-09-28T08:41:22.377Z;2023-09-28T11:04:30.497Z
+226;91006;Corporate Web;Sprint 2;Nuget update (url);Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-09-15T06:57:49.563Z;
+227;91043;Corporate Web;Sprint 1;Smoketest in prod;Closed;Closed;;;4,0;0,0;2023-09-07T07:04:35.74Z;
+228;91044;Corporate Web;Sprint 1;Update code and deploy;Closed;Closed;Morgan Jönsson;;4,0;0,0;2023-09-07T07:04:20.74Z;
+229;91046;Corporate Web;Sprint 2;Add all domains in reCaptcha;Closed;Closed;Ring, Ann-Margret;1,0;0,0;0,0;;
+230;91135;Corporate Web;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-09-11T03:49:58.567Z;2023-09-11T03:50:01.47Z
+231;91173;Corporate Web;Sprint 1;Update Integration Engine;Closed;Closed;Itrash Aslam;20,0;20,0;0,0;2023-09-08T11:06:26.773Z;
+232;91184;Corporate Web;Sprint 1;Code review Youtube video pbi;Closed;Closed;Sara Winter;1,0;2,0;0,0;2023-09-11T07:02:37.807Z;2023-09-11T10:26:24.64Z
+233;91215;Corporate Web;Sprint 4;Alt-text: Force update on DB;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-18T13:39:54.163Z;2023-10-19T06:01:30.373Z
+234;91253;Corporate Web;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-09-11T06:48:09.053Z;2023-09-11T06:48:36.857Z
+235;91254;Corporate Web;Sprint 1;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;2023-09-11T06:48:11.09Z;2023-09-12T08:33:03.963Z
+236;91255;Corporate Web;Sprint 1;Test the implementation;Closed;Closed;Itrash Aslam;;5,0;0,0;2023-09-11T06:49:49.937Z;2023-09-12T06:55:12.597Z
+237;91274;Corporate Web;Sprint 4;Revert to default on Startpage property;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-17T08:56:06.297Z;2023-10-17T10:42:27.823Z
+238;91303;Corporate Web;Sprint 2;Finalize implementation;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-09-14T06:47:24.463Z;
+239;91304;Corporate Web;Sprint 2;QA;Closed;Closed;Martin Nilsson;4,0;6,0;0,0;2023-09-28T08:41:31.11Z;
+240;91309;Corporate Web;Sprint 3;Implement;Closed;Closed;Itrash Aslam;12,0;12,0;0,0;2023-09-15T06:52:31.73Z;2023-09-27T06:48:23.933Z
+241;91310;Corporate Web;Sprint 3;QA;Closed;Closed;Max Haase;4,0;5,0;0,0;2023-10-09T06:47:37.64Z;
+242;91311;Corporate Web;Sprint 3;Review;Closed;Closed;Jönsson, Fredrik;1,0;1,0;0,0;2023-09-29T14:36:21.14Z;2023-09-29T14:36:37.133Z
+243;91312;Corporate Web;Sprint 4;Info: reCaptcha displayed in browser language;Closed;Closed;Ring, Ann-Margret;;;;;
+244;91504;Corporate Web;Sprint 2;Restore databse to enable tests;Closed;Closed;Itrash Aslam;;;0,0;2023-09-13T06:45:52.99Z;2023-09-27T06:47:45.86Z
+245;91506;Corporate Web;Sprint 1;Finalize implementation;Closed;Closed;Sara Winter;;;;2023-09-13T07:00:34.6Z;
+246;91584;Corporate Web;Sprint 1;Genomgång med Josh;Closed;Closed;Morgan Jönsson;;1,0;0,0;2023-09-14T06:53:49.08Z;
+247;91592;Corporate Web;Sprint 2;Assign roles to new AD group;Closed;Closed;Ring, Ann-Margret;1,0;0,0;0,0;2023-09-25T13:52:27.217Z;2023-09-25T13:52:29.283Z
+248;91611;Corporate Web;Sprint 3;Finalize tags/triggers in GTM webtest/inte;Closed;Closed;brychan.toda;1,0;1,0;0,0;2023-10-06T12:53:10.897Z;
+249;91612;Corporate Web;Sprint 4;Add in production GTM - all sites;Closed;Closed;Itrash Aslam;4,0;4,0;0,0;2023-10-16T07:47:24.637Z;2023-10-17T06:36:42.173Z
+250;91613;Corporate Web;Sprint 4;Verify in webtest/inte (GA4);Closed;Closed;Martin Nilsson;2,0;3,0;0,0;2023-10-09T09:18:18.82Z;
+251;91614;Corporate Web;Sprint 4;Clean up code;Closed;Closed;Itrash Aslam;4,0;1,0;0,0;2023-10-17T13:30:25.35Z;2023-10-17T13:30:27.89Z
+252;91615;Corporate Web;Sprint 4;Remove GA-id property;Closed;Closed;Itrash Aslam;2,0;2,0;0,0;2023-10-24T11:09:53.893Z;2023-10-24T11:48:40.743Z
+253;91616;Corporate Web;Sprint 2;Review testresult;Closed;Closed;Momcilo Dordevic;4,0;4,0;;2023-09-25T06:53:33.243Z;2023-09-26T11:11:21.31Z
+254;91617;Corporate Web;Sprint 2;Finalize QA;Closed;Closed;Max Haase;2,0;3,0;0,0;2023-09-27T06:58:39.29Z;
+255;91628;Corporate Web;Sprint 5;Remove scheduled jobs;Proposed;Proposed;;6,0;;6,0;;
+256;91629;Corporate Web;Sprint 5;Review;Proposed;Proposed;;2,0;;2,0;;
+257;91630;Corporate Web;Sprint 5;Task: Remove content ;Proposed;Proposed;Ring, Ann-Margret;;;;;
+258;91632;Corporate Web;Sprint 2;Implement in related req.;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-09-19T13:06:16.467Z;
+259;91640;Corporate Web;Sprint 1;Finalize implementation;Closed;Closed;Sara Winter;2,0;3,0;0,0;2023-09-14T07:02:51.703Z;
+260;91641;Corporate Web;Sprint 1;Review;Closed;Closed;Morgan Jönsson;;;;;
+261;91642;Corporate Web;Sprint 2;QA;Closed;Closed;Martin Nilsson;2,0;10,0;0,0;2023-09-29T07:15:05.943Z;
+262;91653;Corporate Web;Sprint 2;Review;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-09-15T09:50:18.68Z;
+263;91690;Corporate Web;Sprint 3;Update button style;Closed;Closed;Ring, Ann-Margret;;;;;
+264;91691;Corporate Web;Sprint 3;Investigate pref.center issue;Closed;Closed;Ring, Ann-Margret;;;;;
+265;91716;Corporate Web;Sprint 5;Reg.test: Cleanup GA-id/tracking;Proposed;Proposed;;;;;;
+266;91718;Corporate Web;Sprint 2;Investigate scope/sln;Closed;Closed;Jönsson, Fredrik;0,5;0,5;0,0;;
+267;91719;Corporate Web;Sprint 2;Investigate possibility to use EPiForms;Closed;Closed;Ring, Ann-Margret;1,0;0,0;0,0;2023-09-27T14:05:45.213Z;
+268;91720;Corporate Web;Sprint 3;Investigate styling possibility on EpiForm;Closed;Closed;brychan.toda;8,0;10,0;0,0;2023-10-04T05:19:37.463Z;2023-10-11T06:15:29.16Z
+269;91745;Corporate Web;Sprint 2;Backend: Property for display options;Closed;Closed;Morgan Jönsson;3,0;3,0;0,0;2023-09-15T09:49:42.567Z;
+270;91808;Corporate Web;Sprint 2;Finalize implementation;Closed;Closed;Sara Winter;16,0;13,0;0,0;2023-09-19T06:59:10.68Z;2023-09-19T14:04:09.49Z
+271;91809;Corporate Web;Sprint 2;Review;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-09-20T06:54:44.19Z;
+272;91810;Corporate Web;Sprint 4;QA;Closed;Closed;Joshua Popoola;8,0;25,0;0,0;2023-10-27T06:48:49.113Z;2023-10-27T15:18:02.493Z
+273;91812;Corporate Web;Sprint 3;Merge and deploy to inte/preprod;Closed;Closed;Jönsson, Fredrik;4,0;;0,0;;
+274;91813;Corporate Web;Sprint 3;Reg.test preprod;Closed;Closed;Max Haase;4,0;9,0;0,0;;
+275;91814;Corporate Web;Sprint 4;Deploy to prod;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-17T06:50:28.817Z;2023-10-17T08:55:37.4Z
+276;91815;Corporate Web;Sprint 4;Reg.test production;Closed;Closed;Max Haase;5,0;5,0;0,0;2023-10-17T06:51:09.25Z;2023-10-17T11:33:18.703Z
+277;91816;Corporate Web;Sprint 5;Backend: Facts block for ProjectID;Proposed;Active;brychan.toda;8,0;;4,0;2023-11-03T13:37:27.48Z;
+278;91817;Corporate Web;Sprint 5;Frontend: Design & listing;Proposed;Active;brychan.toda;4,0;2,0;2,0;2023-11-03T09:11:12.667Z;
+279;91818;Corporate Web;Sprint 5;Code review;Proposed;Proposed;;1,0;;1,0;;
+280;91819;Corporate Web;Sprint 5;Test;Proposed;Proposed;;4,0;;4,0;;
+281;91844;Corporate Web;Sprint 3;Demo;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;;
+282;91847;Corporate Web;Sprint 2;Issues with images and alt text on some blocks;Closed;Closed;Itrash Aslam;;;;2023-09-20T06:47:40.843Z;2023-09-20T06:47:52.26Z
+283;91877;Corporate Web;Sprint 5;QA;Proposed;Proposed;;4,0;;4,0;;
+284;91878;Corporate Web;Sprint 5;Review;Proposed;Proposed;;1,0;;1,0;;
+285;91889;Corporate Web;Sprint 5;Merge and deploy to inte/preprod;Proposed;Proposed;;3,0;;3,0;;
+286;91890;Corporate Web;Sprint 5;Reg.test preprod;Proposed;Proposed;;5,0;;5,0;;
+287;91891;Corporate Web;Sprint 5;Demo;Proposed;Proposed;Ring, Ann-Margret;1,0;;1,0;;
+288;91892;Corporate Web;Sprint 5;Deploy to prod;Proposed;Proposed;;;;;;
+289;91893;Corporate Web;Sprint 5;Reg.test prod;Proposed;Proposed;;;;;;
+290;91907;Corporate Web;Sprint 3;Check whitelist inte/preprod;Closed;Closed;Jönsson, Fredrik;;;;2023-10-04T07:20:41.4Z;
+291;91946;Corporate Web;Sprint 2;QA block in Campaigns content area;Closed;Closed;Max Haase;2,0;2,0;;2023-09-22T06:50:56.903Z;2023-09-26T06:48:07.243Z
+292;91947;Corporate Web;Sprint 2;Review;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-09-20T06:51:45.043Z;
+293;91950;Corporate Web;Sprint 2;Review;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-09-20T06:47:22.043Z;
+294;91958;Corporate Web;Sprint 2;Kolla och se vad som skall göras;Closed;Closed;Ring, Ann-Margret;0,0;0,0;0,0;2023-09-20T06:58:18.217Z;
+295;91968;Corporate Web;Sprint 5;Use existing Translations;Proposed;Proposed;;3,0;;3,0;;
+296;91997;Corporate Web;Sprint 2;Lös buggar;Closed;Closed;Morgan Jönsson;1,0;5,0;0,0;2023-09-21T06:47:34.98Z;
+297;92073;Corporate Web;Sprint 3;New source property and logic;Closed;Closed;Jönsson, Fredrik;4,0;;0,0;2023-10-06T09:00:24.167Z;
+298;92074;Corporate Web;Sprint 3;Review;Closed;Closed;Jönsson, Fredrik;1,0;;0,0;;
+299;92075;Corporate Web;Sprint 3;QA;Closed;Closed;Martin Nilsson;;5,0;0,0;2023-10-06T11:48:27.23Z;
+300;92173;Corporate Web;Sprint 2;Merge Youtube branch;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;;
+301;92177;Corporate Web;Sprint 2;Fallback to default player;Closed;Closed;brychan.toda;2,0;2,0;0,0;2023-09-28T14:54:29.647Z;2023-09-28T14:54:52.54Z
+302;92183;Corporate Web;Sprint 3;Review testresults;Closed;Closed;Momcilo Dordevic;8,0;8,0;;2023-09-29T15:05:07.763Z;2023-09-29T15:06:25.793Z
+303;92228;Corporate Web;Sprint 4;Note: Editor resp column usage;Closed;Closed;Ring, Ann-Margret;;;;;
+304;92233;Corporate Web;Sprint 2;Merge into #90859;Closed;Closed;Momcilo Dordevic;;;;2023-09-26T06:59:04.58Z;
+305;92234;Corporate Web;Sprint 2;Remaining fallback issues from QA;Closed;Closed;Itrash Aslam;4,0;;4,0;2023-09-26T09:53:35.927Z;2023-09-28T11:04:34.39Z
+306;92235;Corporate Web;Sprint 2;Review testresults;Closed;Closed;Itrash Aslam;2,0;;2,0;2023-09-26T12:00:18.55Z;2023-09-28T00:12:14.087Z
+307;92315;Corporate Web;Sprint 2;Code review;Closed;Closed;Sara Winter;;2,0;0,0;2023-09-26T11:51:00.367Z;2023-09-26T11:51:16.76Z
+308;92351;Corporate Web;Sprint 2;Code Review;Closed;Closed;Sara Winter;;;;2023-09-26T14:03:41.99Z;
+309;92359;Corporate Web;Sprint 3;Support;Closed;Closed;Sara Winter;2,0;2,0;0,0;2023-09-27T07:04:58.303Z;2023-10-02T06:20:28.8Z
+310;92378;Corporate Web;Sprint 3;Finalize implementation;Closed;Closed;brychan.toda;16,0;16,0;0,0;2023-10-09T06:36:52.59Z;2023-10-11T06:15:20.47Z
+311;92379;Corporate Web;Sprint 3;Review;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-10-09T06:36:59.937Z;
+312;92380;Corporate Web;Sprint 3;QA;Closed;Closed;Martin Nilsson;6,0;10,0;;2023-10-12T11:46:32.593Z;
+313;92381;Corporate Web;Sprint 3;Empty GA-id property in prod.sites;Closed;Closed;Joshua Popoola;1,0;2,0;0,0;2023-10-11T12:51:40.84Z;
+314;92382;Corporate Web;Sprint 4;Review pull request;Closed;Closed;Jönsson, Fredrik;1,0;0,5;0,0;2023-10-24T13:28:23.18Z;2023-10-24T13:28:25.933Z
+315;92402;Corporate Web;Sprint 3;Investigate/Add event to GTM;Closed;Closed;brychan.toda;4,0;3,0;1,0;2023-10-06T06:22:02.343Z;2023-10-11T06:17:51.28Z
+316;92403;Corporate Web;Sprint 3;Review;Closed;Closed;Morgan Jönsson;1,0;;1,0;;
+317;92405;Corporate Web;Sprint 4;QA;Closed;Closed;Martin Nilsson;3,0;6,0;0,0;2023-10-13T05:28:52.457Z;2023-10-18T11:56:31.19Z
+318;92433;Corporate Web;Sprint 4;Revert to default on image asset;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-17T10:42:40.823Z;2023-10-17T10:43:04.327Z
+319;92462;Corporate Web;Sprint 2;Updates of script;Closed;Closed;Max Haase;12,0;;0,0;;
+320;92464;Corporate Web;Sprint 3;Investigate issue;Closed;Closed;Jönsson, Fredrik;4,0;;0,0;2023-09-29T12:33:29.02Z;
+321;92473;Corporate Web;Sprint 5;Planning - Create dev.tasks;Proposed;Proposed;;3,0;;3,0;;
+322;92474;Corporate Web;Sprint 5;Dev - to be split into tasks 120 h;Proposed;Proposed;;3,0;;3,0;;
+323;92475;Corporate Web;Sprint 5;QA - split in tasks 80 h;Proposed;Proposed;;3,0;;3,0;;
+324;92476;Corporate Web;Sprint 5;QA;Active;Closed;Max Haase;20,0;24,0;0,0;2023-10-30T07:25:19.177Z;
+325;92533;Corporate Web;Sprint 3;Review frontend;Closed;Closed;Morgan Jönsson;;13,0;0,0;2023-10-04T08:37:05.447Z;
+326;92618;Corporate Web;Sprint 3;Backend updates;Closed;Closed;Jönsson, Fredrik;4,0;;0,0;2023-10-05T09:43:53.063Z;
+327;92658;Corporate Web;Sprint 3;Investigate Issue;Closed;Closed;Itrash Aslam;4,0;2,0;0,0;2023-10-03T11:09:51.38Z;
+328;92659;Corporate Web;Sprint 3;Support for deloyment;Closed;Closed;Rickard Nisses-Gagnér;2,0;3,0;0,0;;
+329;92662;Corporate Web;Sprint 3;Fix autoplay and loop issue;Closed;Closed;Morgan Jönsson;;1,0;0,0;2023-10-03T12:34:40.723Z;
+330;92663;Corporate Web;Sprint 3;Fix QA findings;Closed;Closed;Morgan Jönsson;;3,0;0,0;;
+331;92780;Corporate Web;Sprint 3;Problem with flockler images;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;;
+332;92781;Corporate Web;Sprint 3;More QA findings;Closed;Closed;Morgan Jönsson;;18,0;0,0;2023-10-09T11:52:43.063Z;
+333;92783;Corporate Web;Sprint 3;Review;Closed;Closed;Sara Winter;1,0;1,0;0,0;2023-10-05T07:01:51.203Z;
+334;92856;Corporate Web;Sprint 5;Update fallback logic;Proposed;Proposed;Itrash Aslam;2,0;;2,0;;
+335;92857;Corporate Web;Sprint 5;Review;Proposed;Proposed;;1,0;;1,0;;
+336;92858;Corporate Web;Sprint 5;QA;Proposed;Proposed;;4,0;;4,0;;
+337;92860;Corporate Web;Sprint 3;Test flockler fix;Closed;Closed;Max Haase;2,0;2,0;0,0;;
+338;92878;Corporate Web;Sprint 3;Review;Closed;Closed;Morgan Jönsson;;1,0;0,0;;
+339;92879;Corporate Web;Sprint 3;QA;Closed;Closed;Martin Nilsson;;2,0;0,0;2023-10-06T09:57:36.203Z;
+340;93094;Corporate Web;Sprint 4;Verify in prod after ForceUpdate on DB;Closed;Closed;Max Haase;1,0;2,0;0,0;2023-10-19T07:18:00.87Z;
+341;93111;Corporate Web;Sprint 3;Review;Closed;Closed;brychan.toda;;1,0;0,0;2023-10-10T06:46:42.14Z;
+342;93121;Corporate Web;Sprint 3;Missing space above National TinyMCE H2 formating;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-10-09T20:42:09.167Z;2023-10-09T20:42:56.563Z
+343;93133;Corporate Web;Sprint 3;Recheck h2 for preproduction;Closed;Closed;Max Haase;;23,0;0,0;2023-10-10T06:44:42.19Z;
+344;93134;Corporate Web;Sprint 3;Move integration projects from common and upgrade to 4.72;Closed;Closed;Jönsson, Fredrik;30,0;30,0;0,0;2023-10-10T04:50:01.593Z;
+345;93468;Corporate Web;Sprint 3;Adjust heading ;Closed;Closed;Morgan Jönsson;;15,0;;2023-10-11T06:15:29.787Z;2023-10-11T06:41:41.057Z
+346;93469;Corporate Web;Sprint 3;Help with forms;Closed;Closed;Joshua Popoola;2,0;3,0;0,0;2023-10-11T06:52:34.107Z;2023-10-11T12:51:42.26Z
+347;93493;Corporate Web;Sprint 4;Add download class on the detailed view - see QA comment;Closed;Closed;Itrash Aslam;6,0;2,0;0,0;2023-10-17T06:35:20.183Z;2023-10-17T11:35:23.597Z
+348;93586;Corporate Web;Sprint 4;Sätt upp content och testfall för framtida test;Closed;Closed;Joshua Popoola;3,0;6,0;0,0;2023-10-13T07:33:48.39Z;2023-10-18T06:36:15.583Z
+349;93587;Corporate Web;Sprint 3;Support;Closed;Closed;Jönsson, Fredrik;5,0;5,0;0,0;;
+350;93618;Corporate Web;Sprint 5;Support;Proposed;Proposed;;;;;;
+351;93624;Corporate Web;Sprint 4;Update corporate project references to new Integration project;Closed;Closed;Jönsson, Fredrik;20,0;20,0;;2023-10-23T06:47:47.847Z;2023-10-25T08:30:03.3Z
+352;93638;Corporate Web;Sprint 4;Fix issue close modal in group site;Closed;Closed;Morgan Jönsson;1,0;1,0;;;
+353;93650;Corporate Web;Sprint 4;Review;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-25T08:30:14.89Z;2023-10-25T08:30:19.05Z
+354;93674;Corporate Web;Sprint 4;QA Verify in slot: document/download click on project detailed view;Closed;Closed;Martin Nilsson;;2,0;0,0;2023-10-25T10:01:50.283Z;2023-10-26T04:16:18.42Z
+355;93714;Corporate Web;Sprint 4;Fix issue- Stop video when closing modal;Closed;Closed;brychan.toda;4,0;4,0;0,0;2023-10-19T06:39:12.497Z;
+356;93742;Corporate Web;Sprint 5;Investigate error log about ContactFormFailureMessage;Proposed;Proposed;;4,0;;4,0;;
+357;93743;Corporate Web;Sprint 4;Investigate Pingdom alert 16 oct noon;Closed;Closed;Jönsson, Fredrik;;4,0;;2023-10-17T10:35:43.133Z;2023-10-18T04:18:30.96Z
+358;93899;Corporate Web;Sprint 4;Clean up old tags for GA in GTM;Closed;Closed;Itrash Aslam;2,0;2,0;0,0;2023-10-24T12:03:58.723Z;2023-10-24T13:05:41.633Z
+359;93954;Corporate Web;Sprint 5;Remove disabled block;Proposed;Proposed;;2,0;;2,0;;
+360;93956;Corporate Web;Sprint 5;Q3 report 1 nov - support webadmin;Proposed;Closed;Itrash Aslam;1,0;1,0;;2023-11-01T06:24:51.037Z;2023-11-01T15:03:53.593Z
+361;93967;Corporate Web;Sprint 4;Review;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-10-25T08:30:16.603Z;2023-10-25T08:30:20.807Z
+362;93968;Corporate Web;Sprint 4;Review Joshs comments;Closed;Closed;Ring, Ann-Margret;;;;2023-10-25T08:17:17.72Z;
+363;94035;Corporate Web;Sprint 4;"Problems with property ""Primary source"" on ""Campaign: Teasers block""";Closed;Closed;Jönsson, Fredrik;;2,0;;2023-10-24T06:18:32.347Z;2023-10-24T09:07:37.897Z
+364;94127;Corporate Web;Sprint 4;Fixes after QA Test;Closed;Closed;Itrash Aslam;1,0;1,0;0,0;2023-10-25T12:54:22.26Z;2023-10-26T07:11:26.51Z
+365;94134;Corporate Web;Sprint 5;Icon together with link;Proposed;Proposed;;7,0;;7,0;;
+366;94145;Corporate Web;Sprint 4;Fix found issus with iframe sln (sync with AM);Closed;Closed;brychan.toda;4,0;4,0;0,0;2023-10-26T08:51:21.343Z;
+367;94185;Corporate Web;Sprint 5;Code review;Proposed;Proposed;;1,0;;1,0;;
+368;94186;Corporate Web;Sprint 5;QA;Proposed;Proposed;;8,0;;8,0;;
+369;94713;Corporate Web;Sprint 5;Investigate alarm from hosting regarding suspected automated traffic;;Active;Jönsson, Fredrik;4,0;0,0;4,0;2023-11-06T06:07:44.54Z;
+370;90598;Enterprise Search Global;Sprint 1;Configuration of M365 and push data throug C#;Closed;Closed;Itrash Aslam;69,0;69,0;0,0;2023-09-06T07:16:27.483Z;
+371;90600;Enterprise Search Global;Sprint 1;Book and execute a demo to show the results during this sprint;Closed;Closed;Itrash Aslam;2,0;3,0;0,0;2023-09-11T06:47:17.413Z;
+372;90603;Enterprise Search Global;Sprint 4;Test validation;Closed;Closed;Martin Nilsson;8,0;8,0;0,0;;
+373;90604;Enterprise Search Global;Sprint 2;Investigate what we have and whats need to be moved;Closed;Closed;Morgan Jönsson;8,0;6,0;0,0;2023-09-18T10:48:31.187Z;
+374;90605;Enterprise Search Global;Sprint 2;Move databases / Verify database users ;Closed;Closed;Morgan Jönsson;8,0;;;2023-09-18T10:48:10.89Z;2023-09-27T13:29:57.377Z
+375;90669;Enterprise Search Global;Sprint 1;Write instructions and documentation;Closed;Closed;Itrash Aslam;4,0;3,0;1,0;2023-09-12T14:32:15.237Z;
+376;90709;Enterprise Search Global;Sprint 5;Help Ayfie answer questions;Proposed;Proposed;;;;;;
+377;90710;Enterprise Search Global;Sprint 3;Test validation;Closed;Closed;Martin Nilsson;8,0;5,0;0,0;2023-09-11T05:59:42.28Z;
+378;91133;Enterprise Search Global;Sprint 2;Regtest the day that the database get moved;Closed;Closed;Martin Nilsson;4,0;3,0;0,0;2023-09-26T07:41:51.34Z;
+379;91138;Enterprise Search Global;Sprint 1;Implemrent SQL script;Closed;Closed;Morgan Jönsson;4,0;;0,0;2023-09-08T07:06:40.457Z;2023-09-13T07:59:03.44Z
+380;91252;Enterprise Search Global;Sprint 4;Demo the solution during this sprint (3);Closed;Closed;Itrash Aslam;2,0;2,0;0,0;2023-10-13T07:49:27.707Z;2023-10-17T10:45:47.843Z
+381;91960;Enterprise Search Global;Sprint 2;Ayfie Möte Sprint 2;Closed;Closed;Morgan Jönsson;2,0;1,0;0,0;2023-09-20T07:51:47.617Z;
+382;91961;Enterprise Search Global;Sprint 3;Ayfie Möte Sprint 3;Closed;Closed;Morgan Jönsson;3,0;2,0;0,0;2023-10-02T06:11:07.22Z;
+383;91962;Enterprise Search Global;Sprint 4;Ayfie Möte Sprint 4;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-10-25T11:04:20.803Z;2023-10-27T05:28:35.847Z
+384;92102;Enterprise Search Global;Sprint 2;Ayfie byter databas på preprod;Closed;Closed;Lorentzon, Hanna;0,0;0,0;0,0;2023-09-22T07:56:48.417Z;
+385;92167;Enterprise Search Global;Sprint 2;Move database for Test environment;Closed;Closed;Morgan Jönsson;;;0,0;2023-09-25T04:32:09.52Z;
+386;92168;Enterprise Search Global;Sprint 2;Open firewall SQL;Closed;Closed;Lorentzon, Hanna;0,0;0,0;0,0;2023-09-25T06:56:40.157Z;
+387;92239;Enterprise Search Global;Sprint 2;Christian skall flytta db;Closed;Closed;Lorentzon, Hanna;;;;2023-09-26T06:49:39.887Z;
+388;92306;Enterprise Search Global;Sprint 2;Ayfie configure new database for Test environment;Closed;Closed;Morgan Jönsson;;;;2023-09-26T09:14:07.693Z;
+389;92316;Enterprise Search Global;Sprint 2;Remove ViaWorksTest and GlobalEnterpriseSearch from sesto2450;Closed;Closed;Morgan Jönsson;;;;;
+390;92360;Enterprise Search Global;Sprint 2;Correction of copy ViaWorksTest to sesto2266;Closed;Closed;Morgan Jönsson;;;;2023-09-27T07:12:10.023Z;
+391;92362;Enterprise Search Global;Sprint 3;Index to Microsoft Search using scheduled job ;Closed;Closed;Itrash Aslam;24,0;29,0;0,0;2023-10-02T10:05:08.053Z;
+392;92364;Enterprise Search Global;Sprint 4;Search result page;Closed;Closed;Itrash Aslam;4,0;4,0;;2023-10-23T08:45:09Z;2023-10-23T14:04:05.753Z
+393;92365;Enterprise Search Global;Sprint 3;Demo - Scheduled job to MS Search;Closed;Closed;Morgan Jönsson;2,0;3,0;0,0;2023-10-10T06:50:22.8Z;
+394;92409;Enterprise Search Global;Sprint 3;Security review September;Closed;Closed;Lorentzon, Hanna;2,0;2,0;;;
+395;92412;Enterprise Search Global;Sprint 4;security review oktober;Closed;Closed;Lorentzon, Hanna;1,0;1,0;0,0;2023-10-25T11:41:38.547Z;
+396;93524;Enterprise Search Global;Sprint 4;Releasenotes to servicedesks and webadmin;Closed;Closed;Lorentzon, Hanna;;;;2023-10-12T09:13:44.153Z;
+397;93525;Enterprise Search Global;Sprint 4;Inform stakeholders;Closed;Closed;Lorentzon, Hanna;;;;;
+398;93526;Enterprise Search Global;Sprint 4;Create a change;Closed;Closed;Lorentzon, Hanna;;;;;
+399;93527;Enterprise Search Global;Sprint 4;Regressiontest preprod;Closed;Closed;Martin Nilsson;4,0;4,0;0,0;2023-10-16T08:00:01.25Z;2023-10-18T11:57:35.26Z
+400;93528;Enterprise Search Global;Sprint 4;Regressiontest prod;Closed;Closed;Martin Nilsson;4,0;2,0;0,0;2023-10-19T11:46:12.423Z;2023-10-19T11:46:49.28Z
+401;93744;Enterprise Search Global;Sprint 4;Index Update on Events;Closed;Closed;Itrash Aslam;8,0;8,0;0,0;2023-10-17T11:58:20.527Z;2023-10-24T11:10:41.123Z
+402;93823;Enterprise Search Global;Sprint 5;Index the following field from a page;Resolved;Resolved;Itrash Aslam;4,0;5,0;1,0;2023-10-26T10:43:32.66Z;2023-10-30T07:45:55.947Z
+403;93855;Enterprise Search Global;Sprint 4;Compare search result ranking before/after release;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-10-19T11:46:15.15Z;2023-10-19T11:46:53.21Z
+404;93937;Enterprise Search Global;Sprint 4;Discuss solution with Itrash;Closed;Closed;Leo Lindeberg, Dan;;;;;
+405;94078;Enterprise Search Global;Sprint 4;Demo;Closed;Closed;Itrash Aslam;2,0;2,0;0,0;2023-10-26T07:10:26.827Z;2023-10-26T11:37:23.057Z
+406;94081;Enterprise Search Global;Sprint 4;ServiceNow - update IT continity information;Closed;Closed;Lorentzon, Hanna;2,0;2,0;0,0;;
+407;94120;Enterprise Search Global;Sprint 5;Ayfie möte sprint 5;Proposed;Proposed;Morgan Jönsson;1,0;;1,0;;
+408;94159;Enterprise Search Global;Sprint 5;Index files;Active;Active;Itrash Aslam;12,0;12,0;2,0;2023-10-30T07:46:08.587Z;
+409;94161;Enterprise Search Global;Sprint 5;Search result template;Proposed;Active;Itrash Aslam;12,0;10,0;4,0;2023-11-02T07:43:41.413Z;
+410;94191;Enterprise Search Global;Sprint 5;Identify search settings;Proposed;Active;Morgan Jönsson;8,0;;8,0;2023-11-06T08:02:05.62Z;
+411;90758;Microsites Web;Sprint 2;Assisting Robin Hutt;Closed;Closed;Susanne Holmberg;;;;2023-09-06T07:25:35Z;2023-09-27T13:54:46.237Z
+412;90832;Microsites Web;Sprint 1;QA adds content;Closed;Closed;Joshua Popoola;10,0;1,0;0,0;2023-09-06T07:25:19.25Z;
+413;90839;Microsites Web;Sprint 1;Investigation;Closed;Closed;Ebba Enhörning;2,0;2,0;0,0;2023-09-06T08:56:17.357Z;2023-09-08T06:44:44.6Z
+414;90882;Microsites Web;Sprint 1;Estimates to customer;Closed;Closed;Susanne Holmberg;;;;2023-09-06T07:25:11.207Z;
+415;90886;Microsites Web;Sprint 5;Prepare CD FI site;Active;Active;Cecilia Nilsson;;;;2023-09-27T13:55:19.37Z;
+416;90887;Microsites Web;Sprint 4;Prepare CD NO site;Closed;Closed;Cecilia Nilsson;;;;2023-09-12T11:27:50.947Z;
+417;90907;Microsites Web;Sprint 2;Support sprint 2;Closed;Closed;Ebba Enhörning;4,0;0,0;0,0;2023-09-18T10:55:26.517Z;
+418;90911;Microsites Web;Sprint 1;Create blocks and content;Closed;Closed;Joshua Popoola;4,0;4,0;0,0;2023-09-08T06:38:44.187Z;2023-09-11T06:53:17.77Z
+419;91038;Microsites Web;Sprint 1;CSS check;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;;
+420;91367;Microsites Web;Sprint 1;Review;Closed;Closed;Leo Lindeberg, Dan;;1,0;1,0;2023-09-12T06:51:05.193Z;2023-09-12T07:09:58.35Z
+421;92479;Microsites Web;Sprint 3;QA;Closed;Closed;Joshua Popoola;2,0;4,0;0,0;2023-10-05T08:43:54.823Z;2023-10-05T11:21:30.247Z
+422;92480;Microsites Web;Sprint 3;Review;Closed;Closed;Susanne Holmberg;1,0;1,0;0,0;2023-10-03T10:19:05.443Z;2023-10-03T10:19:08.107Z
+423;92481;Microsites Web;Sprint 3;Create scheduled job;Closed;Closed;Leo Lindeberg, Dan;4,0;2,0;0,0;2023-10-02T08:58:09.953Z;2023-10-03T09:50:32.743Z
+424;92485;Microsites Web;Sprint 3;Support sprint 3;Closed;Closed;Ebba Enhörning;;;;;
+425;92619;Microsites Web;Sprint 3;Reactutbildning;Closed;Closed;Ebba Enhörning;20,0;39,0;0,0;2023-10-03T06:47:44.153Z;
+426;93485;Microsites Web;Sprint 4;Add css for TextCardblock;Closed;Closed;Ebba Enhörning;3,0;2,0;0,0;2023-10-16T07:16:55.333Z;2023-10-17T08:52:58.74Z
+427;93507;Microsites Web;Sprint 4;QA;Closed;Closed;Joshua Popoola;1,0;2,0;0,0;2023-10-17T15:19:38.79Z;2023-10-17T20:25:52.533Z
+428;93508;Microsites Web;Sprint 4;Review;Closed;Closed;Susanne Holmberg;1,0;1,0;0,0;2023-10-17T10:55:26.48Z;2023-10-17T10:55:33.05Z
+429;93600;Microsites Web;Sprint 5;Support;Proposed;Proposed;Rickard Nisses-Gagnér;2,0;;0,0;;
+430;93609;Microsites Web;Sprint 4;Reactutbildning;Closed;Closed;Ebba Enhörning;20,0;29,0;0,0;2023-10-18T06:26:57.923Z;
+431;93611;Microsites Web;Sprint 5;Defender review oktober;Active;Active;Susanne Holmberg;;;;2023-10-23T08:31:04.693Z;
+432;93959;Microsites Web;Sprint 4;QA;Closed;Closed;Martin Nilsson;1,0;1,0;0,0;2023-10-23T12:16:09.737Z;2023-10-23T13:17:45.93Z
+433;93960;Microsites Web;Sprint 4;Code Review;Closed;Closed;Susanne Holmberg;1,0;1,0;0,0;2023-10-23T08:33:34.48Z;2023-10-23T08:33:36.353Z
+434;90204;OneSkanska;Sprint 1;Close old servers;Closed;Closed;;;;;;
+435;90205;OneSkanska;Sprint 4;Close ports to sesto260 from new servers;Closed;Closed;Morgan Jönsson;2,0;1,0;1,0;2023-10-26T06:59:40.607Z;
+436;90206;OneSkanska;Sprint 4;Remove old instances in the F5;Closed;Closed;Morgan Jönsson;2,0;3,0;2,0;2023-10-03T06:20:06.057Z;2023-10-25T06:57:17.68Z
+437;90208;OneSkanska;Sprint 3;Remove temp domain in DNS;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-10-04T08:36:26.17Z;
+438;90209;OneSkanska;Sprint 3;Remove ViaWorks database from sesto260;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-09-29T11:17:40.327Z;
+439;90210;OneSkanska;Sprint 5;QA- Verify with Ayfie so that they don´t have any errors in the logg;Active;Active;Morgan Jönsson;4,0;1,0;1,0;2023-10-27T06:04:30.77Z;
+440;90370;OneSkanska;Sprint 2;QA ;Closed;Closed;Martin Nilsson;4,0;3,0;0,0;2023-09-27T10:24:32.007Z;
+441;90371;OneSkanska;Sprint 2;"Move ""sitename"" code to existing function";Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-26T06:02:53.77Z;2023-09-26T06:21:02.23Z
+442;90539;OneSkanska;Sprint 4;Add additional logging during search flow;Closed;Closed;Morgan Jönsson;8,0;8,0;0,0;2023-10-19T06:57:37.14Z;2023-10-20T04:33:57.48Z
+443;90552;OneSkanska;Sprint 1;Remove dropdown and use Site Settings value on Jobs page;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T07:16:39.387Z;2023-09-07T07:49:44.92Z
+444;90553;OneSkanska;Sprint 1;Remove dropdown and use Site Settings value  on Search page;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T05:44:08.45Z;2023-09-07T07:16:37.59Z
+445;90554;OneSkanska;Sprint 1;Use Site Settings value for load more on Project search page;Closed;Closed;Leo Lindeberg, Dan;2,0;;0,0;2023-09-07T07:55:10.09Z;2023-09-07T08:05:16.82Z
+446;90555;OneSkanska;Sprint 1;Use Site Settings value for load more on Section search page;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T08:05:18.877Z;2023-09-07T08:13:02.03Z
+447;90557;OneSkanska;Sprint 1;Add property on Site Settings page for page size value;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T05:20:22.727Z;2023-09-07T06:53:56.3Z
+448;90558;OneSkanska;Sprint 1;QA - Validate requirement tasks;Closed;Closed;Martin Nilsson;4,0;3,0;0,0;2023-09-12T11:29:10.937Z;
+449;90611;OneSkanska;Sprint 5;Code to run script;Proposed;Proposed;;;;;;
+450;90685;OneSkanska;Sprint 2;Move and rename development databases and update configs;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-09-18T10:40:40.4Z;
+451;90686;OneSkanska;Sprint 2;Move and rename test databases and update configs;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-09-18T10:49:38.017Z;
+452;90687;OneSkanska;Sprint 2;Move and rename preproduction databases and update configs;Closed;Closed;Morgan Jönsson;2,0;2,0;0,0;2023-09-18T10:57:04.17Z;
+453;90688;OneSkanska;Sprint 4;Move and rename production databases and update configs;Closed;Closed;Morgan Jönsson;2,0;1,0;0,0;2023-10-21T08:17:50.25Z;2023-10-27T06:43:46.88Z
+454;90713;OneSkanska;Sprint 5;Update authentication logic for development databases;Proposed;Proposed;;;;2,0;;
+455;90714;OneSkanska;Sprint 5;Update authentication logic for test databases;Proposed;Proposed;;;;2,0;;
+456;90715;OneSkanska;Sprint 5;Update authentication logic for preproduction databases;Proposed;Proposed;;;;2,0;;
+457;90716;OneSkanska;Sprint 5;Update authentication logic for production databases;Proposed;Proposed;;;;2,0;;
+458;90897;OneSkanska;Sprint 1;Support;Closed;Closed;Leo Lindeberg, Dan;5,0;1,0;2,0;;
+459;90923;OneSkanska;Sprint 2;Deploy - IC119;Closed;Closed;Morgan Jönsson;4,0;3,0;0,0;2023-09-15T06:44:56.18Z;
+460;90924;OneSkanska;Sprint 2;QA deploy- IC119;Closed;Closed;Martin Nilsson;4,0;4,0;0,0;2023-09-19T10:36:40.28Z;
+461;90928;OneSkanska;Sprint 2;SR - Release notes & Demo - IC119;Closed;Closed;Leo Lindeberg, Dan;2,0;2,0;0,0;2023-09-18T10:49:06.01Z;2023-09-19T06:52:19.817Z
+462;90962;OneSkanska;Sprint 4;Code review;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-10-20T12:25:07.26Z;2023-10-20T12:25:54.11Z
+463;90963;OneSkanska;Sprint 2;Code review;Closed;Closed;Ebba Enhörning;1,0;1,0;0,0;;
+464;90968;OneSkanska;Sprint 1;Code review;Closed;Closed;Morgan Jönsson;1,0;;0,0;2023-09-08T13:59:56.717Z;
+465;91120;OneSkanska;Sprint 5;Authenticate webdriver on OneSkanska;Active;Active;Max Haase;19,0;15,0;4,0;2023-10-16T07:48:59.273Z;
+466;91147;OneSkanska;Sprint 5;Test case images and videos - 37855, 39641, 37852;Proposed;Proposed;Max Haase;;;;;
+467;91154;OneSkanska;Sprint 4;Test case News - 37869, 37872, 37871, 37868, 57192, 45100;Closed;Closed;Max Haase;;16,0;0,0;2023-10-23T06:45:44.603Z;
+468;91373;OneSkanska;Sprint 2;Hjälpa till;Closed;Closed;Jönsson, Fredrik;2,0;2,0;0,0;2023-09-20T06:50:44.203Z;2023-09-20T12:11:39.067Z
+469;91480;OneSkanska;Sprint 2;Actions after release;Closed;Closed;Leo Lindeberg, Dan;1,0;0,0;0,0;;
+470;91527;OneSkanska;Sprint 2;QA regtest preprod;Closed;Closed;Joshua Popoola;4,0;4,0;0,0;2023-09-15T06:44:48.807Z;
+471;91636;OneSkanska;Sprint 4;Review;Closed;Closed;Morgan Jönsson;1,0;1,0;0,0;2023-10-26T08:32:16.133Z;2023-10-26T08:32:17.83Z
+472;91637;OneSkanska;Sprint 5;QA;Proposed;Proposed;Max Haase;2,0;0,0;2,0;;
+473;91638;OneSkanska;Sprint 4;Handle error in code;Closed;Closed;Itrash Aslam;4,0;4,0;0,0;2023-10-25T08:53:39.06Z;2023-10-26T08:32:13.343Z
+474;91643;OneSkanska;Sprint 5;Handle error in code;Proposed;Resolved;Leo Lindeberg, Dan;6,0;1,0;0,0;2023-11-01T14:38:18.833Z;2023-11-01T14:38:20.963Z
+475;91644;OneSkanska;Sprint 5;Code review;Proposed;Proposed;Ebba Enhörning;1,0;0,0;1,0;;
+476;91645;OneSkanska;Sprint 5;QA;Proposed;Proposed;;2,0;0,0;2,0;;
+477;91649;OneSkanska;Sprint 5;Handle error in code;Proposed;Resolved;Leo Lindeberg, Dan;4,0;1,0;0,0;2023-11-01T15:16:18.167Z;2023-11-01T15:16:20.403Z
+478;91650;OneSkanska;Sprint 5;Code review;Proposed;Resolved;Ebba Enhörning;1,0;1,0;0,0;2023-11-06T09:25:28.17Z;2023-11-06T09:25:57.42Z
+479;91651;OneSkanska;Sprint 5;QA;Proposed;Proposed;;2,0;0,0;2,0;;
+480;91663;OneSkanska;Sprint 5;Handle error in code;Proposed;Resolved;Leo Lindeberg, Dan;4,0;1,0;0,0;2023-11-01T13:32:21.79Z;2023-11-01T13:52:28.86Z
+481;91664;OneSkanska;Sprint 5;Review;Proposed;Resolved;Ebba Enhörning;1,0;1,0;0,0;2023-11-06T07:45:10.607Z;2023-11-06T08:48:39.807Z
+482;91665;OneSkanska;Sprint 5;QA;Proposed;Proposed;;2,0;0,0;2,0;;
+483;91667;OneSkanska;Sprint 5;Code Review;Proposed;Proposed;;;;;;
+484;91668;OneSkanska;Sprint 5;QA;Proposed;Proposed;;;;;;
+485;91669;OneSkanska;Sprint 5;Task;Proposed;Proposed;;;;;;
+486;91675;OneSkanska;Sprint 5;Handle error in code;Proposed;Resolved;Leo Lindeberg, Dan;4,0;1,0;0,0;2023-11-01T15:30:58.05Z;2023-11-01T15:31:01.173Z
+487;91676;OneSkanska;Sprint 5;Code review;Proposed;Resolved;Ebba Enhörning;1,0;1,0;0,0;2023-11-06T08:49:20.467Z;2023-11-06T08:50:18.21Z
+488;91677;OneSkanska;Sprint 5;QA;Proposed;Proposed;;2,0;0,0;2,0;;
+489;91860;OneSkanska;Sprint 2;Remove old database from sesto2450 and sesto2326;Closed;Closed;Morgan Jönsson;;2,0;;2023-09-21T09:53:52.21Z;
+490;91862;OneSkanska;Sprint 2;Support sprint 2;Closed;Closed;Leo Lindeberg, Dan;;;;2023-09-27T11:47:06.74Z;2023-09-29T06:07:42.78Z
+491;91995;OneSkanska;Sprint 5;Development: Add logic for form auto login;Active;Active;Morgan Jönsson;2,0;23,0;2,0;2023-10-24T06:58:13.96Z;
+492;92099;OneSkanska;Sprint 2;Ärende för access;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-22T06:50:16.157Z;2023-09-25T08:23:34.607Z
+493;92169;OneSkanska;Sprint 4;Handle missing source and other errors in the gadget call;Closed;Closed;Leo Lindeberg, Dan;6,0;3,0;0,0;2023-10-19T06:33:11.7Z;2023-10-20T08:45:27.34Z
+494;92170;OneSkanska;Sprint 4;QA;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-10-24T07:14:40.427Z;2023-10-25T05:47:46.413Z
+495;92317;OneSkanska;Sprint 4;Move production OneSkanska database from sesto260 to sesto240;Closed;Closed;Leo Lindeberg, Dan;4,0;2,0;0,0;2023-10-21T08:17:20.02Z;2023-10-21T08:17:33.707Z
+496;92410;OneSkanska;Sprint 2;Security review September;Closed;Closed;Lorentzon, Hanna;;2,0;0,0;;
+497;92411;OneSkanska;Sprint 4;Security review oktober;Closed;Closed;Lorentzon, Hanna;;;;2023-10-27T05:35:41.977Z;
+498;92413;OneSkanska;Sprint 2;Morgan - Update Firefox;Closed;Closed;Morgan Jönsson;1,0;;0,0;2023-09-28T07:36:21.88Z;
+499;92414;OneSkanska;Sprint 2;Momcilo - update your computer;Closed;Closed;Momcilo Dordevic;;1,0;;;
+500;92415;OneSkanska;Sprint 3;Dan - update your computer;Closed;Closed;Leo Lindeberg, Dan;;1,0;0,0;2023-10-03T06:07:03.557Z;2023-10-05T09:09:21.21Z
+501;92489;OneSkanska;Sprint 3;Remove old database from sesto260;Closed;Closed;Morgan Jönsson;;2,0;;2023-09-29T11:17:57.903Z;
+502;92526;OneSkanska;Sprint 3;Investigate;Closed;Closed;Leo Lindeberg, Dan;0,0;0,0;0,0;2023-10-05T14:12:53.303Z;2023-10-06T06:13:05.53Z
+503;92527;OneSkanska;Sprint 3;Investigate;Closed;Closed;Leo Lindeberg, Dan;16,0;0,0;0,0;2023-10-11T06:47:18.65Z;
+504;92528;OneSkanska;Sprint 4;QA;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-10-25T12:13:26.233Z;2023-10-26T13:12:20.943Z
+505;92567;OneSkanska;Sprint 3;Support;Closed;Closed;Leo Lindeberg, Dan;;;;;
+506;92568;OneSkanska;Sprint 3;Support;Closed;Closed;Morgan Jönsson;12,0;2,0;0,0;;
+507;92583;OneSkanska;Sprint 3;Plan move of OneSkanska production database;Closed;Closed;Leo Lindeberg, Dan;2,0;2,0;0,0;2023-10-03T06:07:13.913Z;2023-10-05T14:12:27.457Z
+508;92584;OneSkanska;Sprint 5;Update documentation;Proposed;Proposed;;4,0;;4,0;;
+509;92733;OneSkanska;Sprint 3;Awaiting Infrastructure;Closed;Closed;Leo Lindeberg, Dan;;;;2023-10-04T07:00:29.907Z;
+510;92881;OneSkanska;Sprint 5;Activate and validate Owin authentication;Active;Active;Leo Lindeberg, Dan;;;;2023-10-16T07:28:22.7Z;
+511;93547;OneSkanska;Sprint 5;Requriment approval for Leveransperiod 4 - dev;Active;Active;Morgan Jönsson;3,0;2,0;2,0;2023-10-24T06:59:52.897Z;
+512;93548;OneSkanska;Sprint 5;Requriment approval for Leveransperiod 4 - qa;Active;Active;Martin Nilsson;3,0;2,0;2,0;2023-10-24T06:59:53.963Z;
+513;93575;OneSkanska;Sprint 4;QA after production db move;Closed;Closed;Martin Nilsson;2,0;2,0;0,0;2023-10-21T08:17:38.55Z;2023-10-21T08:17:40.087Z
+514;93577;OneSkanska;Sprint 4;Update dev-environment;Closed;Closed;Morgan Jönsson;4,0;1,0;0,0;2023-10-26T07:00:42.75Z;2023-10-26T13:24:22.053Z
+515;93578;OneSkanska;Sprint 5;Security review - quaterly;Proposed;Proposed;Lorentzon, Hanna;;;;;
+516;93580;OneSkanska;Sprint 5;Setup manifest;Active;Active;Leo Lindeberg, Dan;4,0;1,0;3,0;2023-10-18T04:53:14.82Z;
+517;93646;OneSkanska;Sprint 4;Awaiting infrastructure - SCTASK0217940;Closed;Closed;Lorentzon, Hanna;;;;2023-10-16T07:27:10.983Z;2023-10-25T06:34:01.15Z
+518;93647;OneSkanska;Sprint 4;Setup manifest;Closed;Closed;Morgan Jönsson;4,0;1,0;0,0;2023-10-18T04:53:03.233Z;2023-10-18T04:53:04.623Z
+519;93721;OneSkanska;Sprint 4;Hotfix - Update appsettings for mail recipients;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-10-17T06:44:06.11Z;2023-10-17T06:44:29.523Z
+520;93935;OneSkanska;Sprint 4;Ayfie - Updates their stuff on Monday;Closed;Closed;Leo Lindeberg, Dan;;;;2023-10-25T07:01:04.6Z;2023-10-25T07:01:05.78Z
+521;94082;OneSkanska;Höst 2023-3;ServiceNow - update IT continity information;Closed;Closed;Lorentzon, Hanna;;;;;
+522;94146;OneSkanska;Sprint 5;Test cases to get back to;Proposed;Proposed;Max Haase;;;;;
+523;94147;OneSkanska;Sprint 4;Licens missing;Closed;Closed;Morgan Jönsson;2,0;1,0;0,0;2023-10-26T06:53:52.08Z;
+524;94188;OneSkanska;Sprint 5;Morgan - Uppdatera din dator;Active;Active;Morgan Jönsson;1,0;;1,0;2023-10-27T05:43:34.14Z;
+525;94189;OneSkanska;Sprint 5;Momcilo - update your computer;Proposed;Proposed;Momcilo Dordevic;1,0;;1,0;;
+526;94190;OneSkanska;Sprint 4;Dan - uppdatera din dator;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-10-27T07:04:44.987Z;2023-10-27T07:04:48.787Z
+527;94213;OneSkanska;Sprint 5;Workshop ;Proposed;Proposed;Lorentzon, Hanna;;;;;
+528;94725;OneSkanska;Sprint 5;Fix findings in Spotify block ;;Resolved;Morgan Jönsson;1,0;1,0;0,0;2023-11-06T08:39:07.55Z;2023-11-06T08:39:09.547Z
+529;90891;Web Development Environment;Sprint 1;Invite to meeting;Closed;Closed;Susanne Holmberg;;;;2023-09-12T11:10:34.113Z;
+530;90892;Web Development Environment;Sprint 1;Contact Opti;Closed;Closed;Susanne Holmberg;;;;2023-09-14T06:44:53.103Z;
+531;90893;Web Development Environment;Sprint 1;Create Project;Closed;Closed;Susanne Holmberg;;;;2023-09-06T07:34:42.99Z;2023-09-07T06:39:54.107Z
+532;90895;Web Development Environment;Sprint 2;Setup test environement;Closed;Closed;Morgan Jönsson;20,0;17,0;0,0;2023-09-12T06:48:50.127Z;
+533;90896;Web Development Environment;Sprint 2;Setup test environenment;Closed;Closed;Ebba Enhörning;20,0;28,0;0,0;2023-09-12T06:48:56.313Z;
+534;90898;Web Development Environment;Sprint 2;Investigate;Closed;Closed;Susanne Holmberg;0,0;0,0;0,0;2023-09-08T06:37:07.953Z;
+535;90899;Web Development Environment;Sprint 1;Invite to meeting;Closed;Closed;Susanne Holmberg;;;;2023-09-08T06:36:57.583Z;2023-09-12T11:10:13.763Z
+536;90910;Web Development Environment;Sprint 1;Invite to meeting;Closed;Closed;Susanne Holmberg;;;;2023-09-15T10:56:39.21Z;2023-09-15T10:56:40.457Z
+537;90913;Web Development Environment;Sprint 2;Investigate;Closed;Closed;Leo Lindeberg, Dan;6,0;1,0;0,0;2023-09-25T11:39:23.93Z;2023-09-25T11:39:26.937Z
+538;90915;Web Development Environment;Sprint 1;Create Repo;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T06:49:16.967Z;2023-09-07T06:49:20.74Z
+539;90916;Web Development Environment;Sprint 1;Add source;Closed;Closed;Leo Lindeberg, Dan;2,0;2,0;0,0;2023-09-07T06:49:18.12Z;2023-09-07T06:49:21.893Z
+540;90931;Web Development Environment;Sprint 4;Discuss with Dan;Closed;Closed;Susanne Holmberg;;;;2023-09-14T06:49:45.597Z;
+541;90933;Web Development Environment;Sprint 2;Decision;Closed;Closed;Susanne Holmberg;0,0;0,0;0,0;2023-09-25T11:35:01.687Z;
+542;90999;Web Development Environment;Sprint 1;Add database;Closed;Closed;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-09-07T06:49:19.39Z;2023-09-07T06:49:23.12Z
+543;91039;Web Development Environment;Sprint 1;Uppstart;Closed;Closed;Morgan Jönsson;;2,0;0,0;2023-09-07T06:59:06.383Z;2023-09-08T06:35:05.13Z
+544;91040;Web Development Environment;Sprint 1;Uppstart;Closed;Closed;Ebba Enhörning;;0,0;0,0;2023-09-07T06:59:07.597Z;2023-09-08T06:34:58.697Z
+545;91041;Web Development Environment;Sprint 1;Planning meeting;Closed;Closed;Leo Lindeberg, Dan;1,0;1,0;0,0;2023-09-07T07:00:24.51Z;
+546;91778;Web Development Environment;Sprint 2;Set up initial projects;Closed;Closed;Leo Lindeberg, Dan;9,0;2,0;0,0;2023-09-21T06:51:30.627Z;2023-09-28T16:24:37.67Z
+547;91779;Web Development Environment;Sprint 2;"Add new NPM package with simple element ""service"" in Skanska dev ops";Closed;Closed;Sara Winter;20,0;15,0;0,0;2023-09-25T07:00:17.47Z;
+548;91859;Web Development Environment;Sprint 2;Set up initial projects;Closed;Closed;Morgan Jönsson;16,0;8,0;0,0;2023-09-21T06:51:33.027Z;
+549;91948;Web Development Environment;Sprint 2;Documentation;Closed;Closed;Ebba Enhörning;2,0;2,0;0,0;2023-09-20T06:43:53.677Z;2023-09-28T09:05:44.54Z
+550;92091;Web Development Environment;Sprint 4;Create initial NPM build progress in DevOps;Closed;Closed;Sara Winter;20,0;20,0;0,0;2023-10-16T07:12:24.06Z;2023-10-23T06:57:22.03Z
+551;92420;Web Development Environment;Sprint 5;StoryBook presentation web;Active;Active;Sara Winter;6,0;0,0;6,0;2023-10-30T07:47:18.93Z;
+552;92469;Web Development Environment;Sprint 4;Set up inital database package;Closed;Closed;Morgan Jönsson;6,0;22,0;0,0;2023-10-20T04:33:31.637Z;
+553;92496;Web Development Environment;Sprint 5;Activate and test the Graph logic;Active;Closed;Leo Lindeberg, Dan;10,0;4,0;0,0;2023-10-19T06:26:33.817Z;2023-10-31T14:24:51.13Z
+554;92497;Web Development Environment;Sprint 5;Setup initial logic for retrieving Graph data from the frontend solution;Proposed;Closed;Leo Lindeberg, Dan;25,0;0,0;0,0;2023-11-06T06:02:12.277Z;2023-11-06T06:02:15.26Z
+555;92535;Web Development Environment;Sprint 5;Decide on way forward;Proposed;Proposed;;5,0;;5,0;;
+556;92544;Web Development Environment;Sprint 3;Checkbox;Closed;Closed;Leo Lindeberg, Dan;12,0;1,0;0,0;2023-10-04T05:31:23.87Z;2023-10-05T14:11:54.543Z
+557;92545;Web Development Environment;Sprint 4;Drop down;Closed;Closed;Momcilo Dordevic;8,0;8,0;0,0;2023-10-12T06:46:47.827Z;2023-10-19T06:54:24.183Z
+558;92546;Web Development Environment;Sprint 4;Input;Closed;Closed;Ebba Enhörning;16,0;2,0;0,0;2023-10-12T14:44:59.04Z;2023-10-19T06:55:03.32Z
+559;92547;Web Development Environment;Sprint 3;Text area;Closed;Closed;Ebba Enhörning;6,0;7,0;0,0;2023-10-10T06:51:40.503Z;2023-10-11T08:48:15.81Z
+560;92548;Web Development Environment;Sprint 5;QA;Proposed;Proposed;;16,0;;16,0;;
+561;92715;Web Development Environment;Sprint 3;Radio button;Closed;Closed;Ebba Enhörning;12,0;10,0;0,0;2023-10-11T10:05:29.2Z;
+562;92784;Web Development Environment;Sprint 3;Investigate with Dan;Closed;Closed;Sara Winter;2,0;2,0;0,0;2023-10-05T07:04:02.623Z;2023-10-09T12:18:33.473Z
+563;92880;Web Development Environment;Sprint 3;Investigate if we can use React;Closed;Closed;brychan.toda;12,0;12,0;0,0;2023-10-11T06:14:12.523Z;
+564;93591;Web Development Environment;Sprint 5;Setup solution;Proposed;Resolved;Leo Lindeberg, Dan;8,0;2,0;0,0;2023-11-02T06:00:50.42Z;2023-11-06T07:42:45.26Z
+565;93642;Web Development Environment;Sprint 4;Prepare for Morgan;Closed;Closed;Leo Lindeberg, Dan;;;;2023-10-16T07:13:14.477Z;2023-10-19T06:55:49.523Z
+566;93643;Web Development Environment;Sprint 4;Update input task;Closed;Closed;Leo Lindeberg, Dan;;;;2023-10-17T05:42:51.923Z;2023-10-17T06:46:29.467Z
+567;93648;Web Development Environment;Sprint 4;Awaiting optimizely reply;Closed;Closed;Leo Lindeberg, Dan;;;;2023-10-16T07:30:19.973Z;2023-10-17T05:43:25.597Z
+568;93695;Web Development Environment;Sprint 4;Code review;Closed;Closed;Sara Winter;3,0;3,0;0,0;2023-10-19T07:00:37.38Z;2023-10-23T06:54:44.87Z
+569;93844;Web Development Environment;Sprint 4;Add base styling for the framework;Closed;Closed;brychan.toda;10,0;10,0;0,0;2023-10-18T10:32:22.61Z;
+570;93845;Web Development Environment;Sprint 4;Remove errors in console;Closed;Closed;brychan.toda;10,0;9,0;0,0;2023-10-20T05:24:10.193Z;
+571;93875;Web Development Environment;Sprint 4;Create initial Opti.Ui.Framework NPM package;Closed;Closed;Sara Winter;12,0;27,0;0,0;2023-10-23T06:58:38.957Z;
+572;93969;Web Development Environment;Sprint 5;Create test environment;Active;Resolved;Leo Lindeberg, Dan;;;;2023-10-26T07:10:12.45Z;2023-10-31T14:24:35.31Z
+573;94036;Web Development Environment;Sprint 4;Personal Demo for Dan;Closed;Closed;brychan.toda;1,0;0,5;0,0;;
+574;94148;Web Development Environment;Sprint 5;"Create component for ""Teaser"" block";Proposed;Proposed;Sara Winter;8,0;0,0;8,0;;
+575;94149;Web Development Environment;Sprint 5;Create commercial startpage model;Proposed;Proposed;;2,0;;2,0;;
+576;94151;Web Development Environment;Sprint 5;Create initial solution;Proposed;Resolved;Leo Lindeberg, Dan;2,0;1,0;0,0;2023-11-01T15:02:40.963Z;2023-11-06T06:12:07.67Z
+577;94187;Web Development Environment;Höst 2023-3;Create initial design proposal;Proposed;Proposed;Leo Lindeberg, Dan;4,0;;4,0;;
+578;94195;Web Development Environment;Sprint 5;"Create component for ""Media"" block";Proposed;Proposed;;6,0;;6,0;;
+579;94196;Web Development Environment;Sprint 5;"Create component for ""Action"" block";Proposed;Proposed;;6,0;;6,0;;
+580;94202;Web Development Environment;Sprint 5;"Create model for ""Teaser"" block";Proposed;Proposed;;2,0;;2,0;;
+581;94203;Web Development Environment;Sprint 5;"Create component for ""Text"" block";Proposed;Proposed;;6,0;;6,0;;
+582;94204;Web Development Environment;Sprint 5;"Create model for ""Text"" block";Proposed;Proposed;;4,0;;4,0;;
+583;94205;Web Development Environment;Sprint 5;"Create model for ""Media"" block";Proposed;Proposed;;4,0;;4,0;;
+584;94206;Web Development Environment;Höst 2023-3;"Create model for ""Action"" block";Proposed;Proposed;;2,0;;2,0;;
+585;94212;Web Development Environment;Sprint 5;Uppstartsmöte kring test av Opti12;Proposed;Proposed;Leo Lindeberg, Dan;;;;;
+586;94214;Web Development Environment;Sprint 5;"Create model for ""General start"" page";Proposed;Proposed;;2,0;;2,0;;
