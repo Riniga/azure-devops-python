@@ -11,27 +11,32 @@ auth_token = os.environ['AZURE_DEVOPS_PAT']
 url ="https://dev.azure.com/skanskanordic/"
 increment = "Skanska Sverige IT\\2023\Höst 2023-3"
 areas = ["Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services",
+         "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Bostad Web",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Brand Hub Web",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Corporate Web",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Enterprise Search Global",
+         "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Epi12 (One)",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Microsites Web",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\OneSkanska",
          "Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Web Development Environment"]
 #areas = ["Skanska Sverige IT\\Development and Operations\\Global Services\\Global Digital Communication Services\\Corporate Web" ]
-increment = "Skanska Sverige IT\\2023\Höst 2023-3"
-# Three exact times, 1 after the sprint planning meeting, before sprint demo , after next sprints planning
-sprint = ("Sprint 1", datetime.datetime(2023,9,  6,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023, 9,15,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023, 9,18,12,0, tzinfo=timezone('UTC')) )
-sprint = ("Sprint 2", datetime.datetime(2023,9, 18,12,0, tzinfo=timezone('UTC')), datetime.datetime(2023, 9,29,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10, 2, 9,0, tzinfo=timezone('UTC')) )
-sprint = ("Sprint 3", datetime.datetime(2023,10, 2, 9,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,13,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,16, 8,0, tzinfo=timezone('UTC')) )
-sprint = ("Sprint 4", datetime.datetime(2023,10, 16,8,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,27,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,30, 8,0, tzinfo=timezone('UTC')) )
-sprint = ("Sprint 5", datetime.datetime(2023,10, 30,8,0, tzinfo=timezone('UTC')), datetime.datetime(2023,11,10,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,11,13, 8,0, tzinfo=timezone('UTC')) )
+increment = "Skanska Sverige IT\\2023\Vinter 2023-4"
+# Three exact times UTC time (Greenwich time without daylight saving time), 
+#   1st sometime after the sprint planning meeting, 
+#   2nd before sprint demo
+#   3rd same as 1st for next sprint...
+sprint = ("Sprint 1", datetime.datetime(2023,11,20,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023,12, 1,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,12, 4,10,0, tzinfo=timezone('UTC')) )
+sprint = ("Sprint 2", datetime.datetime(2023,12, 4,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023,12,15,0,0, tzinfo=timezone('UTC')), datetime.datetime(2023,12,18,10,0, tzinfo=timezone('UTC')) )
+# sprint = ("Sprint 3", datetime.datetime(2023,12,18,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,29,0,0, tzinfo=timezone('UTC')), datetime.datetime(2024, 1, 1,10,0, tzinfo=timezone('UTC')) )
+# sprint = ("Sprint 4", datetime.datetime(2024, 1, 1,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023,10,12,0,0, tzinfo=timezone('UTC')), datetime.datetime(2024, 1,15,10,0, tzinfo=timezone('UTC')) )
+# sprint = ("Sprint 5", datetime.datetime(2024, 1,15,10,0, tzinfo=timezone('UTC')), datetime.datetime(2023,11,26,0,0, tzinfo=timezone('UTC')), datetime.datetime(2024, 1,29,10,0, tzinfo=timezone('UTC')) )
 
 from types import SimpleNamespace
 context = SimpleNamespace()
 context.runner_cache = SimpleNamespace()
 context.connection = Connection(base_url=url,creds=BasicAuthentication('PAT', auth_token), user_agent='azure-devops-python-samples/' + __VERSION__)
 
-
+# List all tasks that at the current moment is within the increment and areapaths for the team.
 desired_ids = list()
 wit_client = context.connection.clients.get_work_item_tracking_client()
 for area in areas:
